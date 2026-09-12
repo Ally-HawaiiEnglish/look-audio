@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0E7C86">
+<title>夏威夷美语 · Look 教材音频库</title>
+<style>
+:root{
+  --brand:#0E7C86; --brand-d:#0A5F67; --brand-l:#E6F4F5;
+  --coral:#F2673F; --coral-l:#FEF0EC;
+  --indigo:#4C5FD5; --indigo-l:#EDEFFC;
+  --bg:#F5F7F8; --card:#FFFFFF; --line:#E4E9EB;
+  --tx:#1A2427; --tx2:#5C6B70; --tx3:#93A1A6;
+  --r:14px; --sh:0 1px 2px rgba(16,40,45,.05),0 4px 14px rgba(16,40,45,.05);
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;padding:0}
+body{
+  font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei","Segoe UI",Roboto,sans-serif;
+  background:var(--bg); color:var(--tx); line-height:1.55;
+  padding-bottom:calc(150px + env(safe-area-inset-bottom));
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:760px;margin:0 auto;padding:0 16px}
+
+/* ---------- 顶部品牌 ---------- */
+header{background:linear-gradient(135deg,var(--brand) 0%,var(--brand-d) 100%);color:#fff;padding:0 0 20px}
+.hd{display:flex;align-items:center;gap:12px;padding:18px 0 14px}
+.logo{width:42px;height:42px;border-radius:12px;background:rgba(255,255,255,.18);display:grid;place-items:center;font-size:21px;flex:none}
+.bn{font-size:19px;font-weight:700;letter-spacing:.3px}
+.bs{font-size:11.5px;opacity:.82;letter-spacing:1.6px;text-transform:uppercase}
+.htitle{font-size:15px;opacity:.95;font-weight:500}
+.hmeta{font-size:12px;opacity:.72;margin-top:3px}
+.back{display:inline-flex;align-items:center;gap:5px;background:rgba(255,255,255,.16);color:#fff;
+  border:0;border-radius:20px;padding:6px 13px 6px 10px;font-size:13px;cursor:pointer;margin-bottom:12px;font-family:inherit}
+.back:active{background:rgba(255,255,255,.3)}
+.crumb{font-size:12.5px;opacity:.8;margin-bottom:5px}
+
+/* ---------- 卡片 ---------- */
+.grid{display:grid;gap:12px;margin:18px 0}
+.g2{grid-template-columns:1fr 1fr}
+@media(max-width:520px){.g2{grid-template-columns:1fr}}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:16px;
+  box-shadow:var(--sh);cursor:pointer;transition:transform .12s,box-shadow .12s;display:block;text-align:left;
+  width:100%;font-family:inherit;color:inherit}
+.card:active{transform:scale(.985)}
+.card:hover{box-shadow:0 2px 6px rgba(16,40,45,.07),0 10px 26px rgba(16,40,45,.08)}
+.ct{display:flex;align-items:center;gap:11px}
+.ci{width:40px;height:40px;border-radius:11px;display:grid;place-items:center;font-size:19px;flex:none}
+.cn{font-size:16px;font-weight:650}
+.cd{font-size:12.5px;color:var(--tx2);margin-top:1px}
+.cb{font-size:11.5px;color:var(--tx3);margin-top:10px;display:flex;gap:12px;flex-wrap:wrap}
+.tag{background:var(--brand-l);color:var(--brand-d);border-radius:20px;padding:2px 9px;font-size:11px;font-weight:600}
+
+.sec{font-size:13px;font-weight:700;color:var(--tx2);margin:22px 0 10px;letter-spacing:.4px}
+
+/* 单元格子 */
+.units{display:grid;grid-template-columns:repeat(auto-fill,minmax(96px,1fr));gap:10px;margin:16px 0}
+.unit{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:13px 10px;text-align:center;
+  cursor:pointer;box-shadow:var(--sh);font-family:inherit;color:inherit}
+.unit:active{transform:scale(.97)}
+.un{font-size:20px;font-weight:700;color:var(--brand)}
+.ul{font-size:11px;color:var(--tx3);margin-top:2px}
+
+/* 音频列表 */
+.list{background:var(--card);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh);margin:14px 0}
+.row{display:flex;align-items:center;gap:12px;padding:13px 15px;border-bottom:1px solid var(--line);cursor:pointer}
+.row:last-child{border-bottom:0}
+.row:active{background:#FAFBFB}
+.row.on{background:var(--brand-l)}
+.pbtn{width:34px;height:34px;border-radius:50%;background:var(--brand-l);color:var(--brand-d);
+  display:grid;place-items:center;font-size:13px;flex:none;font-weight:700}
+.row.on .pbtn{background:var(--brand);color:#fff}
+.rm{flex:1;min-width:0}
+.rt{font-size:14.5px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rs{font-size:12px;color:var(--tx2);margin-top:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rd{font-size:11.5px;color:var(--tx3);flex:none;font-variant-numeric:tabular-nums}
+.sbtn{border:1px solid var(--line);background:#fff;color:var(--tx2);border-radius:8px;font-size:11px;
+  padding:4px 8px;cursor:pointer;flex:none;font-family:inherit}
+.sbtn:active{background:var(--brand-l)}
+.script{padding:0 15px 14px;font-size:13.5px;color:var(--tx2);border-bottom:1px solid var(--line);
+  white-space:pre-wrap;background:#FBFCFC;line-height:1.7}
+.script b{color:var(--tx);font-weight:600}
+
+.search{width:100%;border:1px solid var(--line);border-radius:11px;padding:11px 14px;font-size:14.5px;
+  font-family:inherit;background:#fff;margin:14px 0 0;color:var(--tx)}
+.search:focus{outline:2px solid var(--brand);outline-offset:-1px;border-color:var(--brand)}
+.empty{text-align:center;color:var(--tx3);padding:40px 20px;font-size:14px}
+.note{background:var(--coral-l);border:1px solid #FBD9CF;border-radius:12px;padding:12px 14px;
+  font-size:12.5px;color:#8A3A22;margin:16px 0;line-height:1.6}
+footer{text-align:center;color:var(--tx3);font-size:11.5px;padding:26px 16px 10px;line-height:1.8}
+
+/* ---------- 播放器 ---------- */
+#pl{position:fixed;left:0;right:0;bottom:0;background:rgba(255,255,255,.97);
+  backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+  border-top:1px solid var(--line);box-shadow:0 -4px 22px rgba(16,40,45,.09);
+  padding:10px 0 calc(10px + env(safe-area-inset-bottom));transform:translateY(105%);
+  transition:transform .26s cubic-bezier(.3,.9,.3,1);z-index:60}
+#pl.up{transform:translateY(0)}
+.pi{display:flex;align-items:center;gap:10px;margin-bottom:7px}
+.pt{flex:1;min-width:0}
+.pn{font-size:13.5px;font-weight:650;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ps{font-size:11.5px;color:var(--tx2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.xbtn{border:0;background:none;color:var(--tx3);font-size:20px;cursor:pointer;padding:2px 4px;line-height:1;flex:none}
+.bar{display:flex;align-items:center;gap:9px;font-size:11px;color:var(--tx3);font-variant-numeric:tabular-nums}
+input[type=range]{-webkit-appearance:none;appearance:none;flex:1;height:22px;background:none;cursor:pointer;margin:0}
+input[type=range]::-webkit-slider-runnable-track{height:5px;border-radius:3px;
+  background:linear-gradient(to right,var(--brand) var(--p,0%),#DDE4E6 var(--p,0%))}
+input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:15px;height:15px;border-radius:50%;
+  background:#fff;border:2.5px solid var(--brand);margin-top:-5px;box-shadow:0 1px 4px rgba(0,0,0,.2)}
+input[type=range]::-moz-range-track{height:5px;border-radius:3px;background:#DDE4E6}
+input[type=range]::-moz-range-progress{height:5px;border-radius:3px;background:var(--brand)}
+input[type=range]::-moz-range-thumb{width:14px;height:14px;border-radius:50%;background:#fff;border:2.5px solid var(--brand)}
+.ctrls{display:flex;align-items:center;justify-content:center;gap:7px;margin-top:8px}
+.cbtn{width:38px;height:38px;border-radius:50%;border:1px solid var(--line);background:#fff;color:var(--tx);
+  display:grid;place-items:center;cursor:pointer;font-size:12.5px;font-weight:600;font-family:inherit;flex:none;padding:0}
+.cbtn:active{background:var(--brand-l)}
+.cbtn.main{width:48px;height:48px;background:var(--brand);color:#fff;border:0;font-size:17px}
+.cbtn.act{background:var(--brand);color:#fff;border-color:var(--brand)}
+.speeds{display:flex;gap:5px;justify-content:center;margin-top:9px;padding-top:9px;border-top:1px dashed var(--line);align-items:center}
+.slab{font-size:11px;color:var(--tx3);margin-right:2px}
+.sp{border:1px solid var(--line);background:#fff;color:var(--tx2);border-radius:16px;padding:5px 13px;
+  font-size:12.5px;font-weight:650;cursor:pointer;font-family:inherit;min-width:50px}
+.sp.act{background:var(--coral);color:#fff;border-color:var(--coral)}
+.sp:active{transform:scale(.95)}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="hd">
+      <div class="logo">🌺</div>
+      <div>
+        <div class="bn" id="bn">夏威夷美语</div>
+        <div class="bs" id="bs">HAWAII ENGLISH</div>
+      </div>
+    </div>
+    <div id="hnav"></div>
+  </div>
+</header>
+
+<main class="wrap" id="app"><div class="empty">加载中…</div></main>
+
+<footer>
+  <div id="ft">夏威夷美语 · Look 教材音频库</div>
+  <div style="margin-top:5px;opacity:.8">音频版权归 National Geographic Learning / Cengage 所有，仅供本机构在读学生课后复习使用</div>
+</footer>
+
+<div id="pl">
+  <div class="wrap">
+    <div class="pi">
+      <div class="pt">
+        <div class="pn" id="pn">—</div>
+        <div class="ps" id="ps"></div>
+      </div>
+      <button class="xbtn" id="close" title="关闭">✕</button>
+    </div>
+    <div class="bar">
+      <span id="cur">0:00</span>
+      <input type="range" id="seek" min="0" max="1000" value="0">
+      <span id="tot">0:00</span>
+    </div>
+    <div class="ctrls">
+      <button class="cbtn" id="prev" title="上一条">⏮</button>
+      <button class="cbtn" id="b5" title="后退5秒">−5s</button>
+      <button class="cbtn main" id="play">▶</button>
+      <button class="cbtn" id="f5" title="前进5秒">+5s</button>
+      <button class="cbtn" id="next" title="下一条">⏭</button>
+      <button class="cbtn" id="loop" title="单条循环">🔁</button>
+    </div>
+    <div class="speeds">
+      <span class="slab">倍速</span>
+      <button class="sp" data-s="0.75">0.75×</button>
+      <button class="sp act" data-s="1">1×</button>
+      <button class="sp" data-s="1.5">1.5×</button>
+      <button class="sp" data-s="2">2×</button>
+    </div>
+  </div>
+</div>
+
+<audio id="au" preload="metadata"></audio>
+
+<script>
+var D=null, cur=null, looping=false, speed=1;
+var app=document.getElementById('app'), hnav=document.getElementById('hnav'), au=document.getElementById('au');
+var $=function(i){return document.getElementById(i)};
+
+function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){
+  return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
+function mmss(s){
+  if(!isFinite(s)||s<0)s=0;
+  var m=Math.floor(s/60), x=Math.floor(s%60);
+  return m+':'+(x<10?'0':'')+x;
+}
+function lv(id){return D.levels.filter(function(l){return l.id===id})[0]}
+function ct(l,id){return l.cats.filter(function(c){return c.id===id})[0]}
+function go(h){location.hash=h}
+
+/* ---------------- 路由 ---------------- */
+function route(){
+  if(!D)return;
+  var p=location.hash.replace(/^#\/?/,'').split('/').filter(Boolean);
+  p=p.map(decodeURIComponent);
+  try{
+    if(p.length===0) return home();
+    var L=lv(p[0]); if(!L) return home();
+    if(p.length===1) return levelPage(L);
+    var C=ct(L,p[1]); if(!C) return levelPage(L);
+    if(p.length===2) return catPage(L,C);
+    return unitPage(L,C,parseInt(p[2],10));
+  }catch(e){ app.innerHTML='<div class="empty">页面出错了：'+esc(e.message)+'</div>' }
+}
+
+function navBar(html,crumb){
+  hnav.innerHTML=(crumb?'<div class="crumb">'+crumb+'</div>':'')+html;
+}
+
+/* 首页 */
+function home(){
+  navBar('<div class="htitle">Look 教材音频库</div>'+
+    '<div class="hmeta">学生书 · 练习册 · 听写 &nbsp;|&nbsp; 支持 0.75/1/1.5/2 倍速</div>');
+  var h='<div class="sec">选择级别</div><div class="grid g2">';
+  D.levels.forEach(function(L){
+    var n=L.cats.reduce(function(a,c){return a+c.count},0);
+    var bg=L.color==='teal'?'var(--brand-l)':'var(--indigo-l)';
+    var fg=L.color==='teal'?'var(--brand-d)':'var(--indigo)';
+    h+='<button class="card" onclick="go(\''+L.id+'\')">'+
+      '<div class="ct"><div class="ci" style="background:'+bg+';color:'+fg+'">'+({'l1':'①','l2':'②','l3':'③'}[L.id]||'④')+'</div>'+
+      '<div><div class="cn">'+esc(L.name)+'</div><div class="cd">'+esc(L.en)+'</div></div></div>'+
+      '<div class="cb">'+L.cats.map(function(c){
+        return '<span>'+esc(c.name)+' '+c.count+' 条</span>'}).join('')+'</div></button>';
+  });
+  h+='</div><div class="note"><b>使用说明</b><br>'+
+     '① 点级别 → 点分类 → 点单元 → 点音频即可播放<br>'+
+     '② 播放条支持 0.75× 慢速精听、2× 快速复习，可 −5s/+5s 逐句反复<br>'+
+     '③ 顶部搜索框可按 Track 号快速定位</div>';
+  app.innerHTML=h;
+}
+
+/* 级别页 */
+function levelPage(L){
+  navBar('<button class="back" onclick="go(\'\')">‹ 全部级别</button>'+
+    '<div class="htitle">'+esc(L.name)+'</div>'+
+    '<div class="hmeta">'+esc(L.en)+' · 共 '+L.cats.reduce(function(a,c){return a+c.count},0)+' 条音频</div>');
+  var ic={sb:'📘',wb:'📝',dictation:'✍️'};
+  var h='<div class="sec">选择分类</div><div class="grid">';
+  L.cats.forEach(function(C){
+    var mb=0;C.units.forEach(function(u){u.tracks.forEach(function(t){mb+=t.mb})});
+    h+='<button class="card" onclick="go(\''+L.id+'/'+C.id+'\')">'+
+      '<div class="ct"><div class="ci" style="background:var(--brand-l)">'+ic[C.id]+'</div>'+
+      '<div style="flex:1"><div class="cn">'+esc(C.name)+' <span class="tag">'+C.count+' 条</span></div>'+
+      '<div class="cd">'+esc(C.en)+' · '+esc(C.desc)+'</div></div>'+
+      '<div style="color:var(--tx3);font-size:20px">›</div></div>'+
+      '<div class="cb"><span>'+C.units.length+' 个单元</span><span>'+mb.toFixed(0)+' MB</span></div></button>';
+  });
+  h+='</div>';
+  var dz=L.cats.filter(function(c){return c.id==='dictation'})[0]; if(dz&&dz.count){
+    h+='<div class="note">「听写」是按讲义 Dictation 部分录制的标准美式发音音频，'+
+       '目前覆盖 Units 1–4（讲义已出的范围）。</div>';
+  }
+  app.innerHTML=h;
+}
+
+/* 分类页：单元列表 + 搜索 */
+function catPage(L,C){
+  navBar('<button class="back" onclick="go(\''+L.id+'\')">‹ '+esc(L.name)+'</button>'+
+    '<div class="htitle">'+esc(C.name)+' · '+esc(C.en)+'</div>'+
+    '<div class="hmeta">'+C.count+' 条音频 · '+C.units.length+' 个单元</div>');
+  var single=C.units.length===1;
+  var h='<input class="search" id="q" placeholder="搜索：Track 号或标题…">'+'<div id="res"></div>';
+  if(single){ h+=renderList(L,C,C.units[0].tracks,C.units[0].tracks.map(function(){return C.units[0].unit})); app.innerHTML=h; bindRows(L,C); return; }
+  h+='<div class="sec">按单元浏览</div><div class="units">';
+        '<div id="res"></div><div class="sec">按单元浏览</div><div class="units">';
+  C.units.forEach(function(u){
+    h+='<button class="unit" onclick="go(\''+L.id+'/'+C.id+'/'+u.unit+'\')">'+
+       '<div class="un">'+u.unit+'</div><div class="ul">Unit '+u.unit+'<br>'+u.tracks.length+' 条</div></button>';
+  });
+  h+='</div>';
+  app.innerHTML=h;
+  var q=$('q'), res=$('res');
+  q.oninput=function(){
+    var v=q.value.trim().toLowerCase();
+    if(!v){res.innerHTML='';return}
+    var hit=[];
+    C.units.forEach(function(u){u.tracks.forEach(function(t){
+      var s=('unit '+u.unit+' '+t.t+' '+t.label).toLowerCase();
+      if(s.indexOf(v)>=0) hit.push({u:u.unit,t:t});
+    })});
+    if(!hit.length){res.innerHTML='<div class="empty">没有匹配的音频</div>';return}
+    res.innerHTML='<div class="sec">搜索结果 '+hit.length+' 条</div>'+
+      renderList(L,C,hit.slice(0,60).map(function(x){return x.t}),hit.slice(0,60).map(function(x){return x.u}));
+    bindRows(L,C);
+  };
+}
+
+/* 单元页 */
+function unitPage(L,C,un){
+  var u=C.units.filter(function(x){return x.unit===un})[0];
+  if(!u) return catPage(L,C);
+  navBar('<button class="back" onclick="go(\''+L.id+'/'+C.id+'\')">‹ '+esc(C.name)+'</button>'+
+    '<div class="htitle">Unit '+un+' · '+esc(C.name)+'</div>'+
+    '<div class="hmeta">'+esc(L.name)+' · '+u.tracks.length+' 条音频</div>');
+  app.innerHTML=renderList(L,C,u.tracks,u.tracks.map(function(){return un}));
+  bindRows(L,C);
+}
+
+function renderList(L,C,tracks,units){
+  var h='<div class="list">';
+  tracks.forEach(function(t,i){
+    var un=units[i];
+    var src='audio/'+L.id+'/'+C.id+'/'+t.f;
+    var key=src;
+    var sub=C.id==='dictation'
+      ? 'Unit '+un+' Lesson '+t.t.replace('L','')+' Dictation'
+      : 'Unit '+un+' · Track '+t.t+(t.label?' · '+esc(t.label):'');
+    h+='<div class="row" data-src="'+esc(src)+'" data-name="'+esc(dispName(C,un,t))+'" data-sub="'+esc(sub)+'">'+
+       '<div class="pbtn">▶</div><div class="rm">'+
+       '<div class="rt">'+esc(dispName(C,un,t))+'</div>'+
+       '<div class="rs">'+sub+'</div></div>'+
+       (t.dur?'<div class="rd">'+mmss(t.dur)+'</div>':'')+
+       (t.script?'<button class="sbtn" data-sc="'+esc(key)+'">文稿</button>':'')+
+       '</div>'+
+       (t.script?'<div class="script" id="sc-'+cssid(key)+'" style="display:none">'+fmtScript(C,t)+'</div>':'');
+  });
+  return h+'</div>';
+}
+function dispName(C,un,t){
+  return C.id==='dictation' ? ('Unit '+un+' Lesson '+t.t.replace('L','')+' Dictation')
+                            : ('Track '+t.t+(t.label?' — '+t.label:''));
+}
+function cssid(s){return s.replace(/[^a-z0-9]/gi,'_')}
+function fmtScript(C,t){
+  if(C.id==='dictation' && t.sentences && t.sentences.length){
+    return '<b>听写原文</b>\n'+t.sentences.map(function(s,i){return (i+1)+'. '+esc(s)}).join('\n');
+  }
+  return esc(t.script);
+}
+
+function bindRows(L,C){
+  [].forEach.call(app.querySelectorAll('.sbtn'),function(b){
+    b.onclick=function(e){
+      e.stopPropagation();
+      var el=$('sc-'+cssid(b.getAttribute('data-sc')));
+      if(!el)return;
+      var on=el.style.display!=='none';
+      el.style.display=on?'none':'block';
+      b.textContent=on?'文稿':'收起';
+    };
+  });
+  [].forEach.call(app.querySelectorAll('.row'),function(r){
+    r.onclick=function(){
+      var src=r.getAttribute('data-src');
+      if(cur===src){ au.paused?au.play():au.pause(); return }
+      playSrc(src,r.getAttribute('data-name'),r.getAttribute('data-sub'));
+    };
+  });
+  markActive();
+}
+function markActive(){
+  [].forEach.call(document.querySelectorAll('.row'),function(r){
+    var on=r.getAttribute('data-src')===cur;
+    r.classList.toggle('on',on);
+    r.querySelector('.pbtn').textContent = on ? (au.paused?'▶':'❚❚') : '▶';
+  });
+}
+
+/* ---------------- 播放 ---------------- */
+function playSrc(src,name,sub){
+  cur=src;
+  au.src=src.split('/').map(encodeURIComponent).join('/');
+  au.playbackRate=speed;
+  au.play().catch(function(){});
+  $('pn').textContent=name; $('ps').textContent=sub.replace(/<[^>]+>/g,'');
+  $('pl').classList.add('up');
+  try{localStorage.setItem('hw_last',JSON.stringify({src:src,name:name,sub:sub,h:location.hash}))}catch(e){}
+  markActive();
+}
+function siblings(){
+  return [].map.call(document.querySelectorAll('.row'),function(r){
+    return {src:r.getAttribute('data-src'),name:r.getAttribute('data-name'),sub:r.getAttribute('data-sub')};
+  });
+}
+function step(d){
+  var a=siblings(), i=-1;
+  for(var k=0;k<a.length;k++) if(a[k].src===cur) i=k;
+  if(i<0)return;
+  var n=a[i+d]; if(!n)return;
+  playSrc(n.src,n.name,n.sub);
+  var rows=document.querySelectorAll('.row');
+  if(rows[i+d]) rows[i+d].scrollIntoView({block:'center',behavior:'smooth'});
+}
+
+$('play').onclick=function(){ if(!cur)return; au.paused?au.play():au.pause() };
+$('prev').onclick=function(){step(-1)};
+$('next').onclick=function(){step(1)};
+$('b5').onclick=function(){au.currentTime=Math.max(0,au.currentTime-5)};
+$('f5').onclick=function(){au.currentTime=Math.min(au.duration||1e9,au.currentTime+5)};
+$('loop').onclick=function(){ looping=!looping; au.loop=looping; $('loop').classList.toggle('act',looping) };
+$('close').onclick=function(){ au.pause(); $('pl').classList.remove('up') };
+[].forEach.call(document.querySelectorAll('.sp'),function(b){
+  b.onclick=function(){
+    speed=parseFloat(b.getAttribute('data-s'));
+    au.playbackRate=speed;
+    [].forEach.call(document.querySelectorAll('.sp'),function(x){x.classList.toggle('act',x===b)});
+    try{localStorage.setItem('hw_speed',speed)}catch(e){}
+  };
+});
+
+var seek=$('seek'), dragging=false;
+seek.oninput=function(){ dragging=true; seek.style.setProperty('--p',(seek.value/10)+'%') };
+seek.onchange=function(){
+  if(au.duration) au.currentTime=au.duration*seek.value/1000;
+  dragging=false;
+};
+au.ontimeupdate=function(){
+  if(!au.duration||dragging)return;
+  var p=au.currentTime/au.duration*1000;
+  seek.value=p; seek.style.setProperty('--p',(p/10)+'%');
+  $('cur').textContent=mmss(au.currentTime); $('tot').textContent=mmss(au.duration);
+};
+au.onloadedmetadata=function(){ $('tot').textContent=mmss(au.duration) };
+au.onplay=function(){ $('play').textContent='❚❚'; markActive() };
+au.onpause=function(){ $('play').textContent='▶'; markActive() };
+au.onended=function(){ if(!looping) step(1) };
+au.onerror=function(){ $('ps').textContent='音频加载失败，请检查网络后重试' };
+
+document.addEventListener('keydown',function(e){
+  if(e.target.tagName==='INPUT')return;
+  if(e.code==='Space'){e.preventDefault();$('play').click()}
+  if(e.code==='ArrowLeft')$('b5').click();
+  if(e.code==='ArrowRight')$('f5').click();
+});
+
+/* ---------------- 启动 ---------------- */
+fetch('data.json').then(function(r){return r.json()}).then(function(d){
+  D=d;
+  $('bn').textContent=d.brand;
+  $('bs').textContent=d.brandEn;
+  $('ft').textContent=d.brand+' · '+d.title+' · 更新于 '+d.updated;
+  document.title=d.brand+' · '+d.title;
+  try{
+    var sp=parseFloat(localStorage.getItem('hw_speed'));
+    if(sp&&[0.75,1,1.5,2].indexOf(sp)>=0){
+      speed=sp;
+      [].forEach.call(document.querySelectorAll('.sp'),function(x){
+        x.classList.toggle('act',parseFloat(x.getAttribute('data-s'))===sp)});
+    }
+  }catch(e){}
+  route();
+  window.addEventListener('hashchange',route);
+}).catch(function(e){
+  app.innerHTML='<div class="empty">音频索引加载失败<br><small>'+esc(e.message)+'</small></div>';
+});
+</script>
+</body>
+</html>

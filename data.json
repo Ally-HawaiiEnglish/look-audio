@@ -1,0 +1,3968 @@
+{
+ "brand": "夏威夷美语",
+ "brandEn": "Hawaii English",
+ "title": "Look 教材音频库",
+ "updated": "2026-09-12",
+ "levels": [
+  {
+   "id": "l1",
+   "name": "Look 一级",
+   "en": "Level 1",
+   "color": "teal",
+   "cats": [
+    {
+     "id": "sb",
+     "name": "学生书",
+     "en": "Student Book",
+     "desc": "课堂正课音频",
+     "count": 148,
+     "units": [
+      {
+       "unit": 1,
+       "tracks": [
+        {
+         "f": "look_sb1_ame_000.mp3",
+         "t": "1",
+         "label": "Look 一级 学生书",
+         "mb": 0.19
+        },
+        {
+         "f": "look_sb1_ame_001.mp3",
+         "t": "2",
+         "label": "Look 一级 学生书",
+         "mb": 0.76
+        },
+        {
+         "f": "look_sb1_ame_002.mp3",
+         "t": "3",
+         "label": "Look 一级 学生书",
+         "mb": 0.98
+        },
+        {
+         "f": "look_sb1_ame_003.mp3",
+         "t": "4",
+         "label": "Look 一级 学生书",
+         "mb": 1.06
+        },
+        {
+         "f": "look_sb1_ame_004.mp3",
+         "t": "5",
+         "label": "Look 一级 学生书",
+         "mb": 0.68
+        },
+        {
+         "f": "look_sb1_ame_005.mp3",
+         "t": "6",
+         "label": "Look 一级 学生书",
+         "mb": 0.93
+        },
+        {
+         "f": "look_sb1_ame_006.mp3",
+         "t": "7",
+         "label": "Look 一级 学生书",
+         "mb": 0.71
+        },
+        {
+         "f": "look_sb1_ame_007.mp3",
+         "t": "8",
+         "label": "Look 一级 学生书",
+         "mb": 0.87
+        },
+        {
+         "f": "look_sb1_ame_008.mp3",
+         "t": "9",
+         "label": "Look 一级 学生书",
+         "mb": 0.83
+        },
+        {
+         "f": "look_sb1_ame_009.mp3",
+         "t": "10",
+         "label": "Look 一级 学生书",
+         "mb": 0.24
+        },
+        {
+         "f": "look_sb1_ame_010.mp3",
+         "t": "11",
+         "label": "Look 一级 学生书",
+         "mb": 0.51
+        },
+        {
+         "f": "look_sb1_ame_011.mp3",
+         "t": "12",
+         "label": "Look 一级 学生书",
+         "mb": 0.62
+        },
+        {
+         "f": "look_sb1_ame_012.mp3",
+         "t": "13",
+         "label": "Look 一级 学生书",
+         "mb": 0.36
+        },
+        {
+         "f": "look_sb1_ame_013.mp3",
+         "t": "14",
+         "label": "Look 一级 学生书",
+         "mb": 1.67
+        },
+        {
+         "f": "look_sb1_ame_014.mp3",
+         "t": "15",
+         "label": "Look 一级 学生书",
+         "mb": 1.62
+        },
+        {
+         "f": "look_sb1_ame_015.mp3",
+         "t": "16",
+         "label": "Look 一级 学生书",
+         "mb": 1.63
+        },
+        {
+         "f": "look_sb1_ame_016.mp3",
+         "t": "17",
+         "label": "Look 一级 学生书",
+         "mb": 1.63
+        },
+        {
+         "f": "look_sb1_ame_017.mp3",
+         "t": "18",
+         "label": "Look 一级 学生书",
+         "mb": 0.71
+        },
+        {
+         "f": "look_sb1_ame_018.mp3",
+         "t": "19",
+         "label": "Look 一级 学生书",
+         "mb": 1.1
+        },
+        {
+         "f": "look_sb1_ame_019.mp3",
+         "t": "20",
+         "label": "Look 一级 学生书",
+         "mb": 0.6
+        },
+        {
+         "f": "look_sb1_ame_020.mp3",
+         "t": "21",
+         "label": "Look 一级 学生书",
+         "mb": 0.7
+        },
+        {
+         "f": "look_sb1_ame_021.mp3",
+         "t": "22",
+         "label": "Look 一级 学生书",
+         "mb": 0.85
+        },
+        {
+         "f": "look_sb1_ame_022.mp3",
+         "t": "23",
+         "label": "Look 一级 学生书",
+         "mb": 1.13
+        },
+        {
+         "f": "look_sb1_ame_023.mp3",
+         "t": "24",
+         "label": "Look 一级 学生书",
+         "mb": 0.22
+        },
+        {
+         "f": "look_sb1_ame_024.mp3",
+         "t": "25",
+         "label": "Look 一级 学生书",
+         "mb": 0.44
+        },
+        {
+         "f": "look_sb1_ame_025.mp3",
+         "t": "26",
+         "label": "Look 一级 学生书",
+         "mb": 0.7
+        },
+        {
+         "f": "look_sb1_ame_026.mp3",
+         "t": "27",
+         "label": "Look 一级 学生书",
+         "mb": 0.32
+        },
+        {
+         "f": "look_sb1_ame_027.mp3",
+         "t": "28",
+         "label": "Look 一级 学生书",
+         "mb": 1.6
+        },
+        {
+         "f": "look_sb1_ame_028.mp3",
+         "t": "29",
+         "label": "Look 一级 学生书",
+         "mb": 1.55
+        },
+        {
+         "f": "look_sb1_ame_029.mp3",
+         "t": "30",
+         "label": "Look 一级 学生书",
+         "mb": 1.56
+        },
+        {
+         "f": "look_sb1_ame_030.mp3",
+         "t": "31",
+         "label": "Look 一级 学生书",
+         "mb": 1.55
+        },
+        {
+         "f": "look_sb1_ame_031.mp3",
+         "t": "32",
+         "label": "Look 一级 学生书",
+         "mb": 0.63
+        },
+        {
+         "f": "look_sb1_ame_032.mp3",
+         "t": "33",
+         "label": "Look 一级 学生书",
+         "mb": 0.81
+        },
+        {
+         "f": "look_sb1_ame_033.mp3",
+         "t": "34",
+         "label": "Look 一级 学生书",
+         "mb": 0.58
+        },
+        {
+         "f": "look_sb1_ame_034.mp3",
+         "t": "35",
+         "label": "Look 一级 学生书",
+         "mb": 0.85
+        },
+        {
+         "f": "look_sb1_ame_035.mp3",
+         "t": "36",
+         "label": "Look 一级 学生书",
+         "mb": 0.78
+        },
+        {
+         "f": "look_sb1_ame_036.mp3",
+         "t": "37",
+         "label": "Look 一级 学生书",
+         "mb": 0.61
+        },
+        {
+         "f": "look_sb1_ame_037.mp3",
+         "t": "38",
+         "label": "Look 一级 学生书",
+         "mb": 0.71
+        },
+        {
+         "f": "look_sb1_ame_038.mp3",
+         "t": "39",
+         "label": "Look 一级 学生书",
+         "mb": 0.88
+        },
+        {
+         "f": "look_sb1_ame_039.mp3",
+         "t": "40",
+         "label": "Look 一级 学生书",
+         "mb": 0.89
+        },
+        {
+         "f": "look_sb1_ame_040.mp3",
+         "t": "41",
+         "label": "Look 一级 学生书",
+         "mb": 0.26
+        },
+        {
+         "f": "look_sb1_ame_041.mp3",
+         "t": "42",
+         "label": "Look 一级 学生书",
+         "mb": 0.45
+        },
+        {
+         "f": "look_sb1_ame_042.mp3",
+         "t": "43",
+         "label": "Look 一级 学生书",
+         "mb": 0.55
+        },
+        {
+         "f": "look_sb1_ame_043.mp3",
+         "t": "44",
+         "label": "Look 一级 学生书",
+         "mb": 0.34
+        },
+        {
+         "f": "look_sb1_ame_044.mp3",
+         "t": "45",
+         "label": "Look 一级 学生书",
+         "mb": 1.33
+        },
+        {
+         "f": "look_sb1_ame_045.mp3",
+         "t": "46",
+         "label": "Look 一级 学生书",
+         "mb": 1.28
+        },
+        {
+         "f": "look_sb1_ame_046.mp3",
+         "t": "47",
+         "label": "Look 一级 学生书",
+         "mb": 1.3
+        },
+        {
+         "f": "look_sb1_ame_047.mp3",
+         "t": "48",
+         "label": "Look 一级 学生书",
+         "mb": 1.3
+        },
+        {
+         "f": "look_sb1_ame_048.mp3",
+         "t": "49",
+         "label": "Look 一级 学生书",
+         "mb": 0.64
+        },
+        {
+         "f": "look_sb1_ame_049.mp3",
+         "t": "50",
+         "label": "Look 一级 学生书",
+         "mb": 0.98
+        },
+        {
+         "f": "look_sb1_ame_050.mp3",
+         "t": "51",
+         "label": "Look 一级 学生书",
+         "mb": 0.62
+        },
+        {
+         "f": "look_sb1_ame_051.mp3",
+         "t": "52",
+         "label": "Look 一级 学生书",
+         "mb": 0.75
+        },
+        {
+         "f": "look_sb1_ame_052.mp3",
+         "t": "53",
+         "label": "Look 一级 学生书",
+         "mb": 0.89
+        },
+        {
+         "f": "look_sb1_ame_053.mp3",
+         "t": "54",
+         "label": "Look 一级 学生书",
+         "mb": 0.65
+        },
+        {
+         "f": "look_sb1_ame_054.mp3",
+         "t": "55",
+         "label": "Look 一级 学生书",
+         "mb": 0.22
+        },
+        {
+         "f": "look_sb1_ame_055.mp3",
+         "t": "56",
+         "label": "Look 一级 学生书",
+         "mb": 0.49
+        },
+        {
+         "f": "look_sb1_ame_056.mp3",
+         "t": "57",
+         "label": "Look 一级 学生书",
+         "mb": 0.79
+        },
+        {
+         "f": "look_sb1_ame_057.mp3",
+         "t": "58",
+         "label": "Look 一级 学生书",
+         "mb": 0.26
+        },
+        {
+         "f": "look_sb1_ame_058.mp3",
+         "t": "59",
+         "label": "Look 一级 学生书",
+         "mb": 0.74
+        },
+        {
+         "f": "look_sb1_ame_059.mp3",
+         "t": "60",
+         "label": "Look 一级 学生书",
+         "mb": 2.33
+        },
+        {
+         "f": "look_sb1_ame_060.mp3",
+         "t": "61",
+         "label": "Look 一级 学生书",
+         "mb": 2.28
+        },
+        {
+         "f": "look_sb1_ame_061.mp3",
+         "t": "62",
+         "label": "Look 一级 学生书",
+         "mb": 2.3
+        },
+        {
+         "f": "look_sb1_ame_062.mp3",
+         "t": "63",
+         "label": "Look 一级 学生书",
+         "mb": 2.3
+        },
+        {
+         "f": "look_sb1_ame_063.mp3",
+         "t": "64",
+         "label": "Look 一级 学生书",
+         "mb": 0.64
+        },
+        {
+         "f": "look_sb1_ame_064.mp3",
+         "t": "65",
+         "label": "Look 一级 学生书",
+         "mb": 0.68
+        },
+        {
+         "f": "look_sb1_ame_065.mp3",
+         "t": "66",
+         "label": "Look 一级 学生书",
+         "mb": 0.6
+        },
+        {
+         "f": "look_sb1_ame_066.mp3",
+         "t": "67",
+         "label": "Look 一级 学生书",
+         "mb": 1.24
+        },
+        {
+         "f": "look_sb1_ame_067.mp3",
+         "t": "68",
+         "label": "Look 一级 学生书",
+         "mb": 0.69
+        },
+        {
+         "f": "look_sb1_ame_068.mp3",
+         "t": "69",
+         "label": "Look 一级 学生书",
+         "mb": 0.8
+        },
+        {
+         "f": "look_sb1_ame_069.mp3",
+         "t": "70",
+         "label": "Look 一级 学生书",
+         "mb": 0.88
+        },
+        {
+         "f": "look_sb1_ame_070.mp3",
+         "t": "71",
+         "label": "Look 一级 学生书",
+         "mb": 0.22
+        },
+        {
+         "f": "look_sb1_ame_071.mp3",
+         "t": "72",
+         "label": "Look 一级 学生书",
+         "mb": 0.59
+        },
+        {
+         "f": "look_sb1_ame_072.mp3",
+         "t": "73",
+         "label": "Look 一级 学生书",
+         "mb": 0.54
+        },
+        {
+         "f": "look_sb1_ame_073.mp3",
+         "t": "74",
+         "label": "Look 一级 学生书",
+         "mb": 0.67
+        },
+        {
+         "f": "look_sb1_ame_074.mp3",
+         "t": "75",
+         "label": "Look 一级 学生书",
+         "mb": 0.28
+        },
+        {
+         "f": "look_sb1_ame_075.mp3",
+         "t": "76",
+         "label": "Look 一级 学生书",
+         "mb": 0.76
+        },
+        {
+         "f": "look_sb1_ame_076.mp3",
+         "t": "77",
+         "label": "Look 一级 学生书",
+         "mb": 1.78
+        },
+        {
+         "f": "look_sb1_ame_077.mp3",
+         "t": "78",
+         "label": "Look 一级 学生书",
+         "mb": 1.72
+        },
+        {
+         "f": "look_sb1_ame_078.mp3",
+         "t": "79",
+         "label": "Look 一级 学生书",
+         "mb": 1.72
+        },
+        {
+         "f": "look_sb1_ame_079.mp3",
+         "t": "80",
+         "label": "Look 一级 学生书",
+         "mb": 1.72
+        },
+        {
+         "f": "look_sb1_ame_080.mp3",
+         "t": "81",
+         "label": "Look 一级 学生书",
+         "mb": 0.74
+        },
+        {
+         "f": "look_sb1_ame_081.mp3",
+         "t": "82",
+         "label": "Look 一级 学生书",
+         "mb": 0.88
+        },
+        {
+         "f": "look_sb1_ame_082.mp3",
+         "t": "83",
+         "label": "Look 一级 学生书",
+         "mb": 0.68
+        },
+        {
+         "f": "look_sb1_ame_083.mp3",
+         "t": "84",
+         "label": "Look 一级 学生书",
+         "mb": 0.72
+        },
+        {
+         "f": "look_sb1_ame_084.mp3",
+         "t": "85",
+         "label": "Look 一级 学生书",
+         "mb": 0.88
+        },
+        {
+         "f": "look_sb1_ame_085.mp3",
+         "t": "86",
+         "label": "Look 一级 学生书",
+         "mb": 0.66
+        },
+        {
+         "f": "look_sb1_ame_086.mp3",
+         "t": "87",
+         "label": "Look 一级 学生书",
+         "mb": 0.28
+        },
+        {
+         "f": "look_sb1_ame_087.mp3",
+         "t": "88",
+         "label": "Look 一级 学生书",
+         "mb": 0.44
+        },
+        {
+         "f": "look_sb1_ame_088.mp3",
+         "t": "89",
+         "label": "Look 一级 学生书",
+         "mb": 0.88
+        },
+        {
+         "f": "look_sb1_ame_089.mp3",
+         "t": "90",
+         "label": "Look 一级 学生书",
+         "mb": 0.35
+        },
+        {
+         "f": "look_sb1_ame_091.mp3",
+         "t": "91",
+         "label": "Look 一级 学生书",
+         "mb": 1.65
+        },
+        {
+         "f": "look_sb1_ame_092.mp3",
+         "t": "92",
+         "label": "Look 一级 学生书",
+         "mb": 1.61
+        },
+        {
+         "f": "look_sb1_ame_093.mp3",
+         "t": "93",
+         "label": "Look 一级 学生书",
+         "mb": 1.62
+        },
+        {
+         "f": "look_sb1_ame_094.mp3",
+         "t": "94",
+         "label": "Look 一级 学生书",
+         "mb": 1.62
+        },
+        {
+         "f": "look_sb1_ame_095.mp3",
+         "t": "95",
+         "label": "Look 一级 学生书",
+         "mb": 0.77
+        },
+        {
+         "f": "look_sb1_ame_096.mp3",
+         "t": "96",
+         "label": "Look 一级 学生书",
+         "mb": 0.74
+        },
+        {
+         "f": "look_sb1_ame_097.mp3",
+         "t": "97",
+         "label": "Look 一级 学生书",
+         "mb": 0.73
+        },
+        {
+         "f": "look_sb1_ame_098.mp3",
+         "t": "98",
+         "label": "Look 一级 学生书",
+         "mb": 0.82
+        },
+        {
+         "f": "look_sb1_ame_099.mp3",
+         "t": "99",
+         "label": "Look 一级 学生书",
+         "mb": 0.76
+        },
+        {
+         "f": "look_sb1_ame_100.mp3",
+         "t": "100",
+         "label": "Look 一级 学生书",
+         "mb": 1.14
+        },
+        {
+         "f": "look_sb1_ame_101.mp3",
+         "t": "101",
+         "label": "Look 一级 学生书",
+         "mb": 0.73
+        },
+        {
+         "f": "look_sb1_ame_102.mp3",
+         "t": "102",
+         "label": "Look 一级 学生书",
+         "mb": 0.93
+        },
+        {
+         "f": "look_sb1_ame_103.mp3",
+         "t": "103",
+         "label": "Look 一级 学生书",
+         "mb": 0.89
+        },
+        {
+         "f": "look_sb1_ame_104.mp3",
+         "t": "104",
+         "label": "Look 一级 学生书",
+         "mb": 0.25
+        },
+        {
+         "f": "look_sb1_ame_105.mp3",
+         "t": "105",
+         "label": "Look 一级 学生书",
+         "mb": 0.53
+        },
+        {
+         "f": "look_sb1_ame_106.mp3",
+         "t": "106",
+         "label": "Look 一级 学生书",
+         "mb": 0.85
+        },
+        {
+         "f": "look_sb1_ame_107.mp3",
+         "t": "107",
+         "label": "Look 一级 学生书",
+         "mb": 0.29
+        },
+        {
+         "f": "look_sb1_ame_108.mp3",
+         "t": "108",
+         "label": "Look 一级 学生书",
+         "mb": 0.61
+        },
+        {
+         "f": "look_sb1_ame_109.mp3",
+         "t": "109",
+         "label": "Look 一级 学生书",
+         "mb": 1.48
+        },
+        {
+         "f": "look_sb1_ame_110.mp3",
+         "t": "110",
+         "label": "Look 一级 学生书",
+         "mb": 1.44
+        },
+        {
+         "f": "look_sb1_ame_111.mp3",
+         "t": "111",
+         "label": "Look 一级 学生书",
+         "mb": 1.44
+        },
+        {
+         "f": "look_sb1_ame_112.mp3",
+         "t": "112",
+         "label": "Look 一级 学生书",
+         "mb": 1.44
+        },
+        {
+         "f": "look_sb1_ame_113.mp3",
+         "t": "113",
+         "label": "Look 一级 学生书",
+         "mb": 0.76
+        },
+        {
+         "f": "look_sb1_ame_114.mp3",
+         "t": "114",
+         "label": "Look 一级 学生书",
+         "mb": 0.63
+        },
+        {
+         "f": "look_sb1_ame_115.mp3",
+         "t": "115",
+         "label": "Look 一级 学生书",
+         "mb": 1.14
+        },
+        {
+         "f": "look_sb1_ame_116.mp3",
+         "t": "116",
+         "label": "Look 一级 学生书",
+         "mb": 0.72
+        },
+        {
+         "f": "look_sb1_ame_117.mp3",
+         "t": "117",
+         "label": "Look 一级 学生书",
+         "mb": 0.85
+        },
+        {
+         "f": "look_sb1_ame_118.mp3",
+         "t": "118",
+         "label": "Look 一级 学生书",
+         "mb": 1.47
+        },
+        {
+         "f": "look_sb1_ame_119.mp3",
+         "t": "119",
+         "label": "Look 一级 学生书",
+         "mb": 0.66
+        },
+        {
+         "f": "look_sb1_ame_120.mp3",
+         "t": "120",
+         "label": "Look 一级 学生书",
+         "mb": 0.24
+        },
+        {
+         "f": "look_sb1_ame_121.mp3",
+         "t": "121",
+         "label": "Look 一级 学生书",
+         "mb": 0.46
+        },
+        {
+         "f": "look_sb1_ame_122.mp3",
+         "t": "122",
+         "label": "Look 一级 学生书",
+         "mb": 0.87
+        },
+        {
+         "f": "look_sb1_ame_123.mp3",
+         "t": "123",
+         "label": "Look 一级 学生书",
+         "mb": 0.34
+        },
+        {
+         "f": "look_sb1_ame_124.mp3",
+         "t": "124",
+         "label": "Look 一级 学生书",
+         "mb": 1.33
+        },
+        {
+         "f": "look_sb1_ame_125.mp3",
+         "t": "125",
+         "label": "Look 一级 学生书",
+         "mb": 1.28
+        },
+        {
+         "f": "look_sb1_ame_126.mp3",
+         "t": "126",
+         "label": "Look 一级 学生书",
+         "mb": 1.27
+        },
+        {
+         "f": "look_sb1_ame_127.mp3",
+         "t": "127",
+         "label": "Look 一级 学生书",
+         "mb": 1.27
+        },
+        {
+         "f": "look_sb1_ame_128.mp3",
+         "t": "128",
+         "label": "Look 一级 学生书",
+         "mb": 0.73
+        },
+        {
+         "f": "look_sb1_ame_129.mp3",
+         "t": "129",
+         "label": "Look 一级 学生书",
+         "mb": 0.93
+        },
+        {
+         "f": "look_sb1_ame_130.mp3",
+         "t": "130",
+         "label": "Look 一级 学生书",
+         "mb": 1.16
+        },
+        {
+         "f": "look_sb1_ame_131.mp3",
+         "t": "131",
+         "label": "Look 一级 学生书",
+         "mb": 1.34
+        },
+        {
+         "f": "look_sb1_ame_132.mp3",
+         "t": "132",
+         "label": "Look 一级 学生书",
+         "mb": 0.82
+        },
+        {
+         "f": "look_sb1_ame_133.mp3",
+         "t": "133",
+         "label": "Look 一级 学生书",
+         "mb": 0.7
+        },
+        {
+         "f": "look_sb1_ame_134.mp3",
+         "t": "134",
+         "label": "Look 一级 学生书",
+         "mb": 0.84
+        },
+        {
+         "f": "look_sb1_ame_136.mp3",
+         "t": "135",
+         "label": "Look 一级 学生书",
+         "mb": 0.29
+        },
+        {
+         "f": "look_sb1_ame_137.mp3",
+         "t": "136",
+         "label": "Look 一级 学生书",
+         "mb": 0.62
+        },
+        {
+         "f": "look_sb1_ame_138.mp3",
+         "t": "137",
+         "label": "Look 一级 学生书",
+         "mb": 0.96
+        },
+        {
+         "f": "look_sb1_ame_139.mp3",
+         "t": "138",
+         "label": "Look 一级 学生书",
+         "mb": 0.35
+        },
+        {
+         "f": "look_sb1_ame_140.mp3",
+         "t": "139",
+         "label": "Look 一级 学生书",
+         "mb": 0.72
+        },
+        {
+         "f": "look_sb1_ame_141.mp3",
+         "t": "140",
+         "label": "Look 一级 学生书",
+         "mb": 1.21
+        },
+        {
+         "f": "look_sb1_ame_142.mp3",
+         "t": "141",
+         "label": "Look 一级 学生书",
+         "mb": 1.17
+        },
+        {
+         "f": "look_sb1_ame_143.mp3",
+         "t": "142",
+         "label": "Look 一级 学生书",
+         "mb": 1.14
+        },
+        {
+         "f": "look_sb1_ame_144.mp3",
+         "t": "143",
+         "label": "Look 一级 学生书",
+         "mb": 1.14
+        },
+        {
+         "f": "look_sb1_ame_145.mp3",
+         "t": "144",
+         "label": "Look 一级 学生书",
+         "mb": 0.72
+        },
+        {
+         "f": "look_sb1_ame_146.mp3",
+         "t": "145",
+         "label": "Look 一级 学生书",
+         "mb": 0.75
+        },
+        {
+         "f": "look_sb1_ame_147.mp3",
+         "t": "146",
+         "label": "Look 一级 学生书",
+         "mb": 1.15
+        },
+        {
+         "f": "look_sb1_ame_148.mp3",
+         "t": "147",
+         "label": "Look 一级 学生书",
+         "mb": 0.78
+        },
+        {
+         "f": "look_sb1_ame_149.mp3",
+         "t": "148",
+         "label": "Look 一级 学生书",
+         "mb": 0.96
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wb",
+     "name": "练习册",
+     "en": "Workbook",
+     "desc": "练习册配套音频",
+     "count": 75,
+     "units": [
+      {
+       "unit": 1,
+       "tracks": [
+        {
+         "f": "look_wb1_ame_001.mp3",
+         "t": "1",
+         "label": "Look 一级 练习册",
+         "mb": 0.65
+        },
+        {
+         "f": "look_wb1_ame_002.mp3",
+         "t": "2",
+         "label": "Look 一级 练习册",
+         "mb": 1.06
+        },
+        {
+         "f": "look_wb1_ame_003.mp3",
+         "t": "3",
+         "label": "Look 一级 练习册",
+         "mb": 0.9
+        },
+        {
+         "f": "look_wb1_ame_004.mp3",
+         "t": "4",
+         "label": "Look 一级 练习册",
+         "mb": 0.84
+        },
+        {
+         "f": "look_wb1_ame_005.mp3",
+         "t": "5",
+         "label": "Look 一级 练习册",
+         "mb": 0.66
+        },
+        {
+         "f": "look_wb1_ame_006.mp3",
+         "t": "6",
+         "label": "Look 一级 练习册",
+         "mb": 0.58
+        },
+        {
+         "f": "look_wb1_ame_007.mp3",
+         "t": "7",
+         "label": "Look 一级 练习册",
+         "mb": 0.96
+        },
+        {
+         "f": "look_wb1_ame_008.mp3",
+         "t": "8",
+         "label": "Look 一级 练习册",
+         "mb": 1.09
+        },
+        {
+         "f": "look_wb1_ame_009.mp3",
+         "t": "9",
+         "label": "Look 一级 练习册",
+         "mb": 1.19
+        },
+        {
+         "f": "look_wb1_ame_010.mp3",
+         "t": "10",
+         "label": "Look 一级 练习册",
+         "mb": 0.74
+        },
+        {
+         "f": "look_wb1_ame_011.mp3",
+         "t": "11",
+         "label": "Look 一级 练习册",
+         "mb": 0.76
+        },
+        {
+         "f": "look_wb1_ame_012.mp3",
+         "t": "12",
+         "label": "Look 一级 练习册",
+         "mb": 0.98
+        },
+        {
+         "f": "look_wb1_ame_013.mp3",
+         "t": "13",
+         "label": "Look 一级 练习册",
+         "mb": 0.79
+        },
+        {
+         "f": "look_wb1_ame_014.mp3",
+         "t": "14",
+         "label": "Look 一级 练习册",
+         "mb": 0.84
+        },
+        {
+         "f": "look_wb1_ame_015.mp3",
+         "t": "15",
+         "label": "Look 一级 练习册",
+         "mb": 0.91
+        },
+        {
+         "f": "look_wb1_ame_016.mp3",
+         "t": "16",
+         "label": "Look 一级 练习册",
+         "mb": 0.59
+        },
+        {
+         "f": "look_wb1_ame_017.mp3",
+         "t": "17",
+         "label": "Look 一级 练习册",
+         "mb": 0.61
+        },
+        {
+         "f": "look_wb1_ame_018.mp3",
+         "t": "18",
+         "label": "Look 一级 练习册",
+         "mb": 1.0
+        },
+        {
+         "f": "look_wb1_ame_019.mp3",
+         "t": "19",
+         "label": "Look 一级 练习册",
+         "mb": 0.71
+        },
+        {
+         "f": "look_wb1_ame_020.mp3",
+         "t": "20",
+         "label": "Look 一级 练习册",
+         "mb": 0.68
+        },
+        {
+         "f": "look_wb1_ame_021.mp3",
+         "t": "21",
+         "label": "Look 一级 练习册",
+         "mb": 0.85
+        },
+        {
+         "f": "look_wb1_ame_022.mp3",
+         "t": "22",
+         "label": "Look 一级 练习册",
+         "mb": 0.91
+        },
+        {
+         "f": "look_wb1_ame_023.mp3",
+         "t": "23",
+         "label": "Look 一级 练习册",
+         "mb": 1.04
+        },
+        {
+         "f": "look_wb1_ame_024.mp3",
+         "t": "24",
+         "label": "Look 一级 练习册",
+         "mb": 1.21
+        },
+        {
+         "f": "look_wb1_ame_025.mp3",
+         "t": "25",
+         "label": "Look 一级 练习册",
+         "mb": 0.73
+        },
+        {
+         "f": "look_wb1_ame_026.mp3",
+         "t": "26",
+         "label": "Look 一级 练习册",
+         "mb": 0.91
+        },
+        {
+         "f": "look_wb1_ame_027.mp3",
+         "t": "27",
+         "label": "Look 一级 练习册",
+         "mb": 0.7
+        },
+        {
+         "f": "look_wb1_ame_028.mp3",
+         "t": "28",
+         "label": "Look 一级 练习册",
+         "mb": 0.69
+        },
+        {
+         "f": "look_wb1_ame_029.mp3",
+         "t": "29",
+         "label": "Look 一级 练习册",
+         "mb": 0.98
+        },
+        {
+         "f": "look_wb1_ame_030.mp3",
+         "t": "30",
+         "label": "Look 一级 练习册",
+         "mb": 1.13
+        },
+        {
+         "f": "look_wb1_ame_031.mp3",
+         "t": "31",
+         "label": "Look 一级 练习册",
+         "mb": 0.67
+        },
+        {
+         "f": "look_wb1_ame_032.mp3",
+         "t": "32",
+         "label": "Look 一级 练习册",
+         "mb": 0.92
+        },
+        {
+         "f": "look_wb1_ame_033.mp3",
+         "t": "33",
+         "label": "Look 一级 练习册",
+         "mb": 0.96
+        },
+        {
+         "f": "look_wb1_ame_034.mp3",
+         "t": "34",
+         "label": "Look 一级 练习册",
+         "mb": 0.94
+        },
+        {
+         "f": "look_wb1_ame_035.mp3",
+         "t": "35",
+         "label": "Look 一级 练习册",
+         "mb": 0.97
+        },
+        {
+         "f": "look_wb1_ame_037.mp3",
+         "t": "36",
+         "label": "Look 一级 练习册",
+         "mb": 1.01
+        },
+        {
+         "f": "look_wb1_ame_038.mp3",
+         "t": "37",
+         "label": "Look 一级 练习册",
+         "mb": 0.91
+        },
+        {
+         "f": "look_wb1_ame_039.mp3",
+         "t": "38",
+         "label": "Look 一级 练习册",
+         "mb": 0.91
+        },
+        {
+         "f": "look_wb1_ame_040.mp3",
+         "t": "39",
+         "label": "Look 一级 练习册",
+         "mb": 0.63
+        },
+        {
+         "f": "look_wb1_ame_041.mp3",
+         "t": "40",
+         "label": "Look 一级 练习册",
+         "mb": 1.24
+        },
+        {
+         "f": "look_wb1_ame_042.mp3",
+         "t": "41",
+         "label": "Look 一级 练习册",
+         "mb": 2.19
+        },
+        {
+         "f": "look_wb1_ame_043.mp3",
+         "t": "42",
+         "label": "Look 一级 练习册",
+         "mb": 0.66
+        },
+        {
+         "f": "look_wb1_ame_044.mp3",
+         "t": "43",
+         "label": "Look 一级 练习册",
+         "mb": 0.9
+        },
+        {
+         "f": "look_wb1_ame_045.mp3",
+         "t": "44",
+         "label": "Look 一级 练习册",
+         "mb": 1.01
+        },
+        {
+         "f": "look_wb1_ame_046.mp3",
+         "t": "45",
+         "label": "Look 一级 练习册",
+         "mb": 1.13
+        },
+        {
+         "f": "look_wb1_ame_047.mp3",
+         "t": "46",
+         "label": "Look 一级 练习册",
+         "mb": 1.18
+        },
+        {
+         "f": "look_wb1_ame_048.mp3",
+         "t": "47",
+         "label": "Look 一级 练习册",
+         "mb": 1.4
+        },
+        {
+         "f": "look_wb1_ame_049.mp3",
+         "t": "48",
+         "label": "Look 一级 练习册",
+         "mb": 1.54
+        },
+        {
+         "f": "look_wb1_ame_050.mp3",
+         "t": "49",
+         "label": "Look 一级 练习册",
+         "mb": 1.01
+        },
+        {
+         "f": "look_wb1_ame_051.mp3",
+         "t": "50",
+         "label": "Look 一级 练习册",
+         "mb": 1.02
+        },
+        {
+         "f": "look_wb1_ame_052.mp3",
+         "t": "51",
+         "label": "Look 一级 练习册",
+         "mb": 1.84
+        },
+        {
+         "f": "look_wb1_ame_053.mp3",
+         "t": "52",
+         "label": "Look 一级 练习册",
+         "mb": 1.07
+        },
+        {
+         "f": "look_wb1_ame_054.mp3",
+         "t": "53",
+         "label": "Look 一级 练习册",
+         "mb": 1.0
+        },
+        {
+         "f": "look_wb1_ame_055.mp3",
+         "t": "54",
+         "label": "Look 一级 练习册",
+         "mb": 0.75
+        },
+        {
+         "f": "look_wb1_ame_056.mp3",
+         "t": "55",
+         "label": "Look 一级 练习册",
+         "mb": 0.85
+        },
+        {
+         "f": "look_wb1_ame_057.mp3",
+         "t": "56",
+         "label": "Look 一级 练习册",
+         "mb": 1.35
+        },
+        {
+         "f": "look_wb1_ame_058.mp3",
+         "t": "57",
+         "label": "Look 一级 练习册",
+         "mb": 1.26
+        },
+        {
+         "f": "look_wb1_ame_059.mp3",
+         "t": "58",
+         "label": "Look 一级 练习册",
+         "mb": 1.06
+        },
+        {
+         "f": "look_wb1_ame_060.mp3",
+         "t": "59",
+         "label": "Look 一级 练习册",
+         "mb": 2.24
+        },
+        {
+         "f": "look_wb1_ame_061.mp3",
+         "t": "60",
+         "label": "Look 一级 练习册",
+         "mb": 2.68
+        },
+        {
+         "f": "look_wb1_ame_062.mp3",
+         "t": "61",
+         "label": "Look 一级 练习册",
+         "mb": 0.81
+        },
+        {
+         "f": "look_wb1_ame_063.mp3",
+         "t": "62",
+         "label": "Look 一级 练习册",
+         "mb": 0.97
+        },
+        {
+         "f": "look_wb1_ame_064.mp3",
+         "t": "63",
+         "label": "Look 一级 练习册",
+         "mb": 1.25
+        },
+        {
+         "f": "look_wb1_ame_065.mp3",
+         "t": "64",
+         "label": "Look 一级 练习册",
+         "mb": 1.21
+        },
+        {
+         "f": "look_wb1_ame_067.mp3",
+         "t": "65",
+         "label": "Look 一级 练习册",
+         "mb": 1.04
+        },
+        {
+         "f": "look_wb1_ame_068.mp3",
+         "t": "66",
+         "label": "Look 一级 练习册",
+         "mb": 1.32
+        },
+        {
+         "f": "look_wb1_ame_069.mp3",
+         "t": "67",
+         "label": "Look 一级 练习册",
+         "mb": 1.11
+        },
+        {
+         "f": "look_wb1_ame_070.mp3",
+         "t": "68",
+         "label": "Look 一级 练习册",
+         "mb": 1.08
+        },
+        {
+         "f": "look_wb1_ame_071.mp3",
+         "t": "69",
+         "label": "Look 一级 练习册",
+         "mb": 1.54
+        },
+        {
+         "f": "look_wb1_ame_072.mp3",
+         "t": "70",
+         "label": "Look 一级 练习册",
+         "mb": 1.09
+        },
+        {
+         "f": "look_wb1_ame_073.mp3",
+         "t": "71",
+         "label": "Look 一级 练习册",
+         "mb": 2.46
+        },
+        {
+         "f": "look_wb1_ame_074.mp3",
+         "t": "72",
+         "label": "Look 一级 练习册",
+         "mb": 3.89
+        },
+        {
+         "f": "look_wb1_ame_075.mp3",
+         "t": "73",
+         "label": "Look 一级 练习册",
+         "mb": 4.43
+        },
+        {
+         "f": "look_wb1_ame_076.mp3",
+         "t": "74",
+         "label": "Look 一级 练习册",
+         "mb": 5.19
+        },
+        {
+         "f": "look_wb1_ame_077.mp3",
+         "t": "75",
+         "label": "Look 一级 练习册",
+         "mb": 2.06
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "name": "Look 二级",
+   "en": "Level 2",
+   "color": "indigo",
+   "cats": [
+    {
+     "id": "sb",
+     "name": "学生书",
+     "en": "Student Book",
+     "desc": "课堂正课音频",
+     "count": 90,
+     "units": [
+      {
+       "unit": 1,
+       "tracks": [
+        {
+         "f": "look_sb2_ame_000.mp3",
+         "t": "1",
+         "label": "Look 二级 学生书",
+         "mb": 0.19
+        },
+        {
+         "f": "look_sb2_ame_001.mp3",
+         "t": "2",
+         "label": "Look 二级 学生书",
+         "mb": 1.19
+        },
+        {
+         "f": "look_sb2_ame_002.mp3",
+         "t": "3",
+         "label": "Look 二级 学生书",
+         "mb": 0.69
+        },
+        {
+         "f": "look_sb2_ame_003.mp3",
+         "t": "4",
+         "label": "Look 二级 学生书",
+         "mb": 0.83
+        },
+        {
+         "f": "look_sb2_ame_004.mp3",
+         "t": "5",
+         "label": "Look 二级 学生书",
+         "mb": 1.06
+        },
+        {
+         "f": "look_sb2_ame_005.mp3",
+         "t": "6",
+         "label": "Look 二级 学生书",
+         "mb": 0.19
+        },
+        {
+         "f": "look_sb2_ame_006.mp3",
+         "t": "7",
+         "label": "Look 二级 学生书",
+         "mb": 0.53
+        },
+        {
+         "f": "look_sb2_ame_007.mp3",
+         "t": "8",
+         "label": "Look 二级 学生书",
+         "mb": 1.22
+        },
+        {
+         "f": "look_sb2_ame_008.mp3",
+         "t": "9",
+         "label": "Look 二级 学生书",
+         "mb": 0.33
+        },
+        {
+         "f": "look_sb2_ame_009.mp3",
+         "t": "10",
+         "label": "Look 二级 学生书",
+         "mb": 0.54
+        },
+        {
+         "f": "look_sb2_ame_010.mp3",
+         "t": "11",
+         "label": "Look 二级 学生书",
+         "mb": 1.2
+        },
+        {
+         "f": "look_sb2_ame_011.mp3",
+         "t": "12",
+         "label": "Look 二级 学生书",
+         "mb": 1.17
+        },
+        {
+         "f": "look_sb2_ame_012.mp3",
+         "t": "13",
+         "label": "Look 二级 学生书",
+         "mb": 1.15
+        },
+        {
+         "f": "look_sb2_ame_013.mp3",
+         "t": "14",
+         "label": "Look 二级 学生书",
+         "mb": 0.56
+        },
+        {
+         "f": "look_sb2_ame_014.mp3",
+         "t": "15",
+         "label": "Look 二级 学生书",
+         "mb": 0.96
+        },
+        {
+         "f": "look_sb2_ame_015.mp3",
+         "t": "16",
+         "label": "Look 二级 学生书",
+         "mb": 0.89
+        },
+        {
+         "f": "look_sb2_ame_016.mp3",
+         "t": "17",
+         "label": "Look 二级 学生书",
+         "mb": 0.54
+        },
+        {
+         "f": "look_sb2_ame_017.mp3",
+         "t": "18",
+         "label": "Look 二级 学生书",
+         "mb": 0.73
+        },
+        {
+         "f": "look_sb2_ame_018.mp3",
+         "t": "19",
+         "label": "Look 二级 学生书",
+         "mb": 0.9
+        },
+        {
+         "f": "look_sb2_ame_019.mp3",
+         "t": "20",
+         "label": "Look 二级 学生书",
+         "mb": 0.98
+        },
+        {
+         "f": "look_sb2_ame_020.mp3",
+         "t": "21",
+         "label": "Look 二级 学生书",
+         "mb": 0.53
+        },
+        {
+         "f": "look_sb2_ame_021.mp3",
+         "t": "22",
+         "label": "Look 二级 学生书",
+         "mb": 0.52
+        },
+        {
+         "f": "look_sb2_ame_022.mp3",
+         "t": "23",
+         "label": "Look 二级 学生书",
+         "mb": 1.17
+        },
+        {
+         "f": "look_sb2_ame_023.mp3",
+         "t": "24",
+         "label": "Look 二级 学生书",
+         "mb": 0.32
+        },
+        {
+         "f": "look_sb2_ame_024.mp3",
+         "t": "25",
+         "label": "Look 二级 学生书",
+         "mb": 0.76
+        },
+        {
+         "f": "look_sb2_ame_025.mp3",
+         "t": "26",
+         "label": "Look 二级 学生书",
+         "mb": 1.34
+        },
+        {
+         "f": "look_sb2_ame_026.mp3",
+         "t": "27",
+         "label": "Look 二级 学生书",
+         "mb": 1.29
+        },
+        {
+         "f": "look_sb2_ame_027.mp3",
+         "t": "28",
+         "label": "Look 二级 学生书",
+         "mb": 1.28
+        },
+        {
+         "f": "look_sb2_ame_028.mp3",
+         "t": "29",
+         "label": "Look 二级 学生书",
+         "mb": 1.28
+        },
+        {
+         "f": "look_sb2_ame_029.mp3",
+         "t": "30",
+         "label": "Look 二级 学生书",
+         "mb": 0.56
+        },
+        {
+         "f": "look_sb2_ame_030.mp3",
+         "t": "31",
+         "label": "Look 二级 学生书",
+         "mb": 0.74
+        },
+        {
+         "f": "look_sb2_ame_031.mp3",
+         "t": "32",
+         "label": "Look 二级 学生书",
+         "mb": 0.86
+        },
+        {
+         "f": "look_sb2_ame_032.mp3",
+         "t": "33",
+         "label": "Look 二级 学生书",
+         "mb": 1.4
+        },
+        {
+         "f": "look_sb2_ame_033.mp3",
+         "t": "34",
+         "label": "Look 二级 学生书",
+         "mb": 0.68
+        },
+        {
+         "f": "look_sb2_ame_034.mp3",
+         "t": "35",
+         "label": "Look 二级 学生书",
+         "mb": 0.62
+        },
+        {
+         "f": "look_sb2_ame_035.mp3",
+         "t": "36",
+         "label": "Look 二级 学生书",
+         "mb": 0.48
+        },
+        {
+         "f": "look_sb2_ame_036.mp3",
+         "t": "37",
+         "label": "Look 二级 学生书",
+         "mb": 0.76
+        },
+        {
+         "f": "look_sb2_ame_037.mp3",
+         "t": "38",
+         "label": "Look 二级 学生书",
+         "mb": 0.95
+        },
+        {
+         "f": "look_sb2_ame_038.mp3",
+         "t": "39",
+         "label": "Look 二级 学生书",
+         "mb": 1.09
+        },
+        {
+         "f": "look_sb2_ame_039.mp3",
+         "t": "40",
+         "label": "Look 二级 学生书",
+         "mb": 0.33
+        },
+        {
+         "f": "look_sb2_ame_040.mp3",
+         "t": "41",
+         "label": "Look 二级 学生书",
+         "mb": 0.54
+        },
+        {
+         "f": "look_sb2_ame_041.mp3",
+         "t": "42",
+         "label": "Look 二级 学生书",
+         "mb": 1.12
+        },
+        {
+         "f": "look_sb2_ame_042.mp3",
+         "t": "43",
+         "label": "Look 二级 学生书",
+         "mb": 0.42
+        },
+        {
+         "f": "look_sb2_ame_043.mp3",
+         "t": "44",
+         "label": "Look 二级 学生书",
+         "mb": 0.47
+        },
+        {
+         "f": "look_sb2_ame_044.mp3",
+         "t": "45",
+         "label": "Look 二级 学生书",
+         "mb": 1.98
+        },
+        {
+         "f": "look_sb2_ame_045.mp3",
+         "t": "46",
+         "label": "Look 二级 学生书",
+         "mb": 1.93
+        },
+        {
+         "f": "look_sb2_ame_046.mp3",
+         "t": "47",
+         "label": "Look 二级 学生书",
+         "mb": 1.92
+        },
+        {
+         "f": "look_sb2_ame_047.mp3",
+         "t": "48",
+         "label": "Look 二级 学生书",
+         "mb": 0.62
+        },
+        {
+         "f": "look_sb2_ame_048.mp3",
+         "t": "49",
+         "label": "Look 二级 学生书",
+         "mb": 0.86
+        },
+        {
+         "f": "look_sb2_ame_049.mp3",
+         "t": "50",
+         "label": "Look 二级 学生书",
+         "mb": 0.81
+        },
+        {
+         "f": "look_sb2_ame_050.mp3",
+         "t": "51",
+         "label": "Look 二级 学生书",
+         "mb": 1.17
+        },
+        {
+         "f": "look_sb2_ame_051.mp3",
+         "t": "52",
+         "label": "Look 二级 学生书",
+         "mb": 0.84
+        },
+        {
+         "f": "look_sb2_ame_052.mp3",
+         "t": "53",
+         "label": "Look 二级 学生书",
+         "mb": 1.05
+        },
+        {
+         "f": "look_sb2_ame_053.mp3",
+         "t": "54",
+         "label": "Look 二级 学生书",
+         "mb": 0.97
+        },
+        {
+         "f": "look_sb2_ame_054.mp3",
+         "t": "55",
+         "label": "Look 二级 学生书",
+         "mb": 0.35
+        },
+        {
+         "f": "look_sb2_ame_055.mp3",
+         "t": "56",
+         "label": "Look 二级 学生书",
+         "mb": 0.54
+        },
+        {
+         "f": "look_sb2_ame_056.mp3",
+         "t": "57",
+         "label": "Look 二级 学生书",
+         "mb": 1.31
+        },
+        {
+         "f": "look_sb2_ame_057.mp3",
+         "t": "58",
+         "label": "Look 二级 学生书",
+         "mb": 0.43
+        },
+        {
+         "f": "look_sb2_ame_058.mp3",
+         "t": "59",
+         "label": "Look 二级 学生书",
+         "mb": 0.66
+        },
+        {
+         "f": "look_sb2_ame_059.mp3",
+         "t": "60",
+         "label": "Look 二级 学生书",
+         "mb": 1.45
+        },
+        {
+         "f": "look_sb2_ame_060.mp3",
+         "t": "61",
+         "label": "Look 二级 学生书",
+         "mb": 1.41
+        },
+        {
+         "f": "look_sb2_ame_061.mp3",
+         "t": "62",
+         "label": "Look 二级 学生书",
+         "mb": 1.42
+        },
+        {
+         "f": "look_sb2_ame_062.mp3",
+         "t": "63",
+         "label": "Look 二级 学生书",
+         "mb": 1.42
+        },
+        {
+         "f": "look_sb2_ame_063.mp3",
+         "t": "64",
+         "label": "Look 二级 学生书",
+         "mb": 0.65
+        },
+        {
+         "f": "look_sb2_ame_064.mp3",
+         "t": "65",
+         "label": "Look 二级 学生书",
+         "mb": 0.8
+        },
+        {
+         "f": "look_sb2_ame_065.mp3",
+         "t": "66",
+         "label": "Look 二级 学生书",
+         "mb": 0.84
+        },
+        {
+         "f": "look_sb2_ame_066.mp3",
+         "t": "67",
+         "label": "Look 二级 学生书",
+         "mb": 1.19
+        },
+        {
+         "f": "look_sb2_ame_067.mp3",
+         "t": "68",
+         "label": "Look 二级 学生书",
+         "mb": 2.4
+        },
+        {
+         "f": "look_sb2_ame_068.mp3",
+         "t": "69",
+         "label": "Look 二级 学生书",
+         "mb": 1.48
+        },
+        {
+         "f": "look_sb2_ame_069.mp3",
+         "t": "70",
+         "label": "Look 二级 学生书",
+         "mb": 0.85
+        },
+        {
+         "f": "look_sb2_ame_070.mp3",
+         "t": "71",
+         "label": "Look 二级 学生书",
+         "mb": 1.13
+        },
+        {
+         "f": "look_sb2_ame_071.mp3",
+         "t": "72",
+         "label": "Look 二级 学生书",
+         "mb": 0.83
+        },
+        {
+         "f": "look_sb2_ame_072.mp3",
+         "t": "73",
+         "label": "Look 二级 学生书",
+         "mb": 0.4
+        },
+        {
+         "f": "look_sb2_ame_073.mp3",
+         "t": "74",
+         "label": "Look 二级 学生书",
+         "mb": 0.53
+        },
+        {
+         "f": "look_sb2_ame_074.mp3",
+         "t": "75",
+         "label": "Look 二级 学生书",
+         "mb": 1.13
+        },
+        {
+         "f": "look_sb2_ame_075.mp3",
+         "t": "76",
+         "label": "Look 二级 学生书",
+         "mb": 0.37
+        },
+        {
+         "f": "look_sb2_ame_076.mp3",
+         "t": "77",
+         "label": "Look 二级 学生书",
+         "mb": 0.55
+        },
+        {
+         "f": "look_sb2_ame_077.mp3",
+         "t": "78",
+         "label": "Look 二级 学生书",
+         "mb": 1.08
+        },
+        {
+         "f": "look_sb2_ame_078.mp3",
+         "t": "79",
+         "label": "Look 二级 学生书",
+         "mb": 1.04
+        },
+        {
+         "f": "look_sb2_ame_079.mp3",
+         "t": "80",
+         "label": "Look 二级 学生书",
+         "mb": 1.05
+        },
+        {
+         "f": "look_sb2_ame_080.mp3",
+         "t": "81",
+         "label": "Look 二级 学生书",
+         "mb": 0.99
+        },
+        {
+         "f": "look_sb2_ame_081.mp3",
+         "t": "82",
+         "label": "Look 二级 学生书",
+         "mb": 0.93
+        },
+        {
+         "f": "look_sb2_ame_082.mp3",
+         "t": "83",
+         "label": "Look 二级 学生书",
+         "mb": 0.96
+        },
+        {
+         "f": "look_sb2_ame_083.mp3",
+         "t": "84",
+         "label": "Look 二级 学生书",
+         "mb": 1.42
+        },
+        {
+         "f": "look_sb2_ame_084.mp3",
+         "t": "85",
+         "label": "Look 二级 学生书",
+         "mb": 0.72
+        },
+        {
+         "f": "look_sb2_ame_085.mp3",
+         "t": "86",
+         "label": "Look 二级 学生书",
+         "mb": 0.93
+        },
+        {
+         "f": "look_sb2_ame_086.mp3",
+         "t": "87",
+         "label": "Look 二级 学生书",
+         "mb": 0.73
+        },
+        {
+         "f": "look_sb2_ame_087.mp3",
+         "t": "88",
+         "label": "Look 二级 学生书",
+         "mb": 0.4
+        },
+        {
+         "f": "look_sb2_ame_088.mp3",
+         "t": "89",
+         "label": "Look 二级 学生书",
+         "mb": 0.51
+        },
+        {
+         "f": "look_sb2_ame_089.mp3",
+         "t": "90",
+         "label": "Look 二级 学生书",
+         "mb": 1.49
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wb",
+     "name": "练习册",
+     "en": "Workbook",
+     "desc": "练习册配套音频",
+     "count": 76,
+     "units": [
+      {
+       "unit": 1,
+       "tracks": [
+        {
+         "f": "look_wb2_ame_000.mp3",
+         "t": "1",
+         "label": "Look 二级 练习册",
+         "mb": 0.15
+        },
+        {
+         "f": "look_wb2_ame_001.mp3",
+         "t": "2",
+         "label": "Look 二级 练习册",
+         "mb": 1.48
+        },
+        {
+         "f": "look_wb2_ame_002.mp3",
+         "t": "3",
+         "label": "Look 二级 练习册",
+         "mb": 1.27
+        },
+        {
+         "f": "look_wb2_ame_003.mp3",
+         "t": "4",
+         "label": "Look 二级 练习册",
+         "mb": 1.35
+        },
+        {
+         "f": "look_wb2_ame_004.mp3",
+         "t": "5",
+         "label": "Look 二级 练习册",
+         "mb": 1.08
+        },
+        {
+         "f": "look_wb2_ame_005.mp3",
+         "t": "6",
+         "label": "Look 二级 练习册",
+         "mb": 1.27
+        },
+        {
+         "f": "look_wb2_ame_006.mp3",
+         "t": "7",
+         "label": "Look 二级 练习册",
+         "mb": 0.59
+        },
+        {
+         "f": "look_wb2_ame_007.mp3",
+         "t": "8",
+         "label": "Look 二级 练习册",
+         "mb": 0.84
+        },
+        {
+         "f": "look_wb2_ame_008.mp3",
+         "t": "9",
+         "label": "Look 二级 练习册",
+         "mb": 1.0
+        },
+        {
+         "f": "look_wb2_ame_009.mp3",
+         "t": "10",
+         "label": "Look 二级 练习册",
+         "mb": 0.98
+        },
+        {
+         "f": "look_wb2_ame_010.mp3",
+         "t": "11",
+         "label": "Look 二级 练习册",
+         "mb": 1.24
+        },
+        {
+         "f": "look_wb2_ame_011.mp3",
+         "t": "12",
+         "label": "Look 二级 练习册",
+         "mb": 0.78
+        },
+        {
+         "f": "look_wb2_ame_012.mp3",
+         "t": "13",
+         "label": "Look 二级 练习册",
+         "mb": 1.31
+        },
+        {
+         "f": "look_wb2_ame_013.mp3",
+         "t": "14",
+         "label": "Look 二级 练习册",
+         "mb": 0.79
+        },
+        {
+         "f": "look_wb2_ame_014.mp3",
+         "t": "15",
+         "label": "Look 二级 练习册",
+         "mb": 0.64
+        },
+        {
+         "f": "look_wb2_ame_015.mp3",
+         "t": "16",
+         "label": "Look 二级 练习册",
+         "mb": 1.08
+        },
+        {
+         "f": "look_wb2_ame_016.mp3",
+         "t": "17",
+         "label": "Look 二级 练习册",
+         "mb": 1.17
+        },
+        {
+         "f": "look_wb2_ame_017.mp3",
+         "t": "18",
+         "label": "Look 二级 练习册",
+         "mb": 1.09
+        },
+        {
+         "f": "look_wb2_ame_018.mp3",
+         "t": "19",
+         "label": "Look 二级 练习册",
+         "mb": 0.61
+        },
+        {
+         "f": "look_wb2_ame_019.mp3",
+         "t": "20",
+         "label": "Look 二级 练习册",
+         "mb": 1.22
+        },
+        {
+         "f": "look_wb2_ame_020.mp3",
+         "t": "21",
+         "label": "Look 二级 练习册",
+         "mb": 0.98
+        },
+        {
+         "f": "look_wb2_ame_021.mp3",
+         "t": "22",
+         "label": "Look 二级 练习册",
+         "mb": 1.37
+        },
+        {
+         "f": "look_wb2_ame_022.mp3",
+         "t": "23",
+         "label": "Look 二级 练习册",
+         "mb": 1.03
+        },
+        {
+         "f": "look_wb2_ame_023.mp3",
+         "t": "24",
+         "label": "Look 二级 练习册",
+         "mb": 0.84
+        },
+        {
+         "f": "look_wb2_ame_024.mp3",
+         "t": "25",
+         "label": "Look 二级 练习册",
+         "mb": 2.36
+        },
+        {
+         "f": "look_wb2_ame_025.mp3",
+         "t": "26",
+         "label": "Look 二级 练习册",
+         "mb": 2.31
+        },
+        {
+         "f": "look_wb2_ame_026.mp3",
+         "t": "27",
+         "label": "Look 二级 练习册",
+         "mb": 1.35
+        },
+        {
+         "f": "look_wb2_ame_027.mp3",
+         "t": "28",
+         "label": "Look 二级 练习册",
+         "mb": 1.0
+        },
+        {
+         "f": "look_wb2_ame_028.mp3",
+         "t": "29",
+         "label": "Look 二级 练习册",
+         "mb": 0.84
+        },
+        {
+         "f": "look_wb2_ame_029.mp3",
+         "t": "30",
+         "label": "Look 二级 练习册",
+         "mb": 1.2
+        },
+        {
+         "f": "look_wb2_ame_030.mp3",
+         "t": "31",
+         "label": "Look 二级 练习册",
+         "mb": 1.36
+        },
+        {
+         "f": "look_wb2_ame_031.mp3",
+         "t": "32",
+         "label": "Look 二级 练习册",
+         "mb": 0.79
+        },
+        {
+         "f": "look_wb2_ame_032.mp3",
+         "t": "33",
+         "label": "Look 二级 练习册",
+         "mb": 1.17
+        },
+        {
+         "f": "look_wb2_ame_033.mp3",
+         "t": "34",
+         "label": "Look 二级 练习册",
+         "mb": 0.75
+        },
+        {
+         "f": "look_wb2_ame_034.mp3",
+         "t": "35",
+         "label": "Look 二级 练习册",
+         "mb": 1.54
+        },
+        {
+         "f": "look_wb2_ame_035.mp3",
+         "t": "36",
+         "label": "Look 二级 练习册",
+         "mb": 1.04
+        },
+        {
+         "f": "look_wb2_ame_036.mp3",
+         "t": "37",
+         "label": "Look 二级 练习册",
+         "mb": 0.79
+        },
+        {
+         "f": "look_wb2_ame_037.mp3",
+         "t": "38",
+         "label": "Look 二级 练习册",
+         "mb": 0.78
+        },
+        {
+         "f": "look_wb2_ame_038.mp3",
+         "t": "39",
+         "label": "Look 二级 练习册",
+         "mb": 1.47
+        },
+        {
+         "f": "look_wb2_ame_039.mp3",
+         "t": "40",
+         "label": "Look 二级 练习册",
+         "mb": 1.23
+        },
+        {
+         "f": "look_wb2_ame_040.mp3",
+         "t": "41",
+         "label": "Look 二级 练习册",
+         "mb": 1.2
+        },
+        {
+         "f": "look_wb2_ame_041.mp3",
+         "t": "42",
+         "label": "Look 二级 练习册",
+         "mb": 1.21
+        },
+        {
+         "f": "look_wb2_ame_042.mp3",
+         "t": "43",
+         "label": "Look 二级 练习册",
+         "mb": 0.96
+        },
+        {
+         "f": "look_wb2_ame_043.mp3",
+         "t": "44",
+         "label": "Look 二级 练习册",
+         "mb": 0.81
+        },
+        {
+         "f": "look_wb2_ame_044.mp3",
+         "t": "45",
+         "label": "Look 二级 练习册",
+         "mb": 0.93
+        },
+        {
+         "f": "look_wb2_ame_045.mp3",
+         "t": "46",
+         "label": "Look 二级 练习册",
+         "mb": 1.16
+        },
+        {
+         "f": "look_wb2_ame_046.mp3",
+         "t": "47",
+         "label": "Look 二级 练习册",
+         "mb": 1.02
+        },
+        {
+         "f": "look_wb2_ame_047.mp3",
+         "t": "48",
+         "label": "Look 二级 练习册",
+         "mb": 1.12
+        },
+        {
+         "f": "look_wb2_ame_048.mp3",
+         "t": "49",
+         "label": "Look 二级 练习册",
+         "mb": 0.73
+        },
+        {
+         "f": "look_wb2_ame_049.mp3",
+         "t": "50",
+         "label": "Look 二级 练习册",
+         "mb": 1.13
+        },
+        {
+         "f": "look_wb2_ame_050.mp3",
+         "t": "51",
+         "label": "Look 二级 练习册",
+         "mb": 1.03
+        },
+        {
+         "f": "look_wb2_ame_051.mp3",
+         "t": "52",
+         "label": "Look 二级 练习册",
+         "mb": 1.21
+        },
+        {
+         "f": "look_wb2_ame_052.mp3",
+         "t": "53",
+         "label": "Look 二级 练习册",
+         "mb": 1.1
+        },
+        {
+         "f": "look_wb2_ame_053.mp3",
+         "t": "54",
+         "label": "Look 二级 练习册",
+         "mb": 0.9
+        },
+        {
+         "f": "look_wb2_ame_054.mp3",
+         "t": "55",
+         "label": "Look 二级 练习册",
+         "mb": 1.67
+        },
+        {
+         "f": "look_wb2_ame_055.mp3",
+         "t": "56",
+         "label": "Look 二级 练习册",
+         "mb": 1.05
+        },
+        {
+         "f": "look_wb2_ame_056.mp3",
+         "t": "57",
+         "label": "Look 二级 练习册",
+         "mb": 1.28
+        },
+        {
+         "f": "look_wb2_ame_057.mp3",
+         "t": "58",
+         "label": "Look 二级 练习册",
+         "mb": 0.73
+        },
+        {
+         "f": "look_wb2_ame_058.mp3",
+         "t": "59",
+         "label": "Look 二级 练习册",
+         "mb": 0.93
+        },
+        {
+         "f": "look_wb2_ame_059.mp3",
+         "t": "60",
+         "label": "Look 二级 练习册",
+         "mb": 0.92
+        },
+        {
+         "f": "look_wb2_ame_060.mp3",
+         "t": "61",
+         "label": "Look 二级 练习册",
+         "mb": 1.04
+        },
+        {
+         "f": "look_wb2_ame_061.mp3",
+         "t": "62",
+         "label": "Look 二级 练习册",
+         "mb": 1.06
+        },
+        {
+         "f": "look_wb2_ame_062.mp3",
+         "t": "63",
+         "label": "Look 二级 练习册",
+         "mb": 1.16
+        },
+        {
+         "f": "look_wb2_ame_063.mp3",
+         "t": "64",
+         "label": "Look 二级 练习册",
+         "mb": 0.63
+        },
+        {
+         "f": "look_wb2_ame_064.mp3",
+         "t": "65",
+         "label": "Look 二级 练习册",
+         "mb": 0.92
+        },
+        {
+         "f": "look_wb2_ame_065.mp3",
+         "t": "66",
+         "label": "Look 二级 练习册",
+         "mb": 0.98
+        },
+        {
+         "f": "look_wb2_ame_066.mp3",
+         "t": "67",
+         "label": "Look 二级 练习册",
+         "mb": 0.98
+        },
+        {
+         "f": "look_wb2_ame_067.mp3",
+         "t": "68",
+         "label": "Look 二级 练习册",
+         "mb": 1.13
+        },
+        {
+         "f": "look_wb2_ame_068.mp3",
+         "t": "69",
+         "label": "Look 二级 练习册",
+         "mb": 0.54
+        },
+        {
+         "f": "look_wb2_ame_069.mp3",
+         "t": "70",
+         "label": "Look 二级 练习册",
+         "mb": 0.92
+        },
+        {
+         "f": "look_wb2_ame_070.mp3",
+         "t": "71",
+         "label": "Look 二级 练习册",
+         "mb": 2.07
+        },
+        {
+         "f": "look_wb2_ame_071.mp3",
+         "t": "72",
+         "label": "Look 二级 练习册",
+         "mb": 1.87
+        },
+        {
+         "f": "look_wb2_ame_072.mp3",
+         "t": "73",
+         "label": "Look 二级 练习册",
+         "mb": 1.9
+        },
+        {
+         "f": "look_wb2_ame_073.mp3",
+         "t": "74",
+         "label": "Look 二级 练习册",
+         "mb": 3.2
+        },
+        {
+         "f": "look_wb2_ame_074.mp3",
+         "t": "75",
+         "label": "Look 二级 练习册",
+         "mb": 4.32
+        },
+        {
+         "f": "look_wb2_ame_075.mp3",
+         "t": "76",
+         "label": "Look 二级 练习册",
+         "mb": 4.94
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "name": "Look 三级",
+   "en": "Level 3",
+   "color": "teal",
+   "cats": [
+    {
+     "id": "sb",
+     "name": "学生书",
+     "en": "Student Book",
+     "desc": "课堂正课音频",
+     "count": 194,
+     "units": [
+      {
+       "unit": 1,
+       "tracks": [
+        {
+         "f": "look_sb3_ame_000.mp3",
+         "t": "1",
+         "label": "Look 三级 学生书",
+         "mb": 0.19
+        },
+        {
+         "f": "look_sb3_ame_001.mp3",
+         "t": "2",
+         "label": "Look 三级 学生书",
+         "mb": 1.17
+        },
+        {
+         "f": "look_sb3_ame_002.mp3",
+         "t": "3",
+         "label": "Look 三级 学生书",
+         "mb": 1.43
+        },
+        {
+         "f": "look_sb3_ame_003.mp3",
+         "t": "4",
+         "label": "Look 三级 学生书",
+         "mb": 1.42
+        },
+        {
+         "f": "look_sb3_ame_004.mp3",
+         "t": "5",
+         "label": "Look 三级 学生书",
+         "mb": 1.42
+        },
+        {
+         "f": "look_sb3_ame_005.mp3",
+         "t": "6",
+         "label": "Look 三级 学生书",
+         "mb": 0.79
+        },
+        {
+         "f": "look_sb3_ame_006.mp3",
+         "t": "7",
+         "label": "Look 三级 学生书",
+         "mb": 0.27
+        },
+        {
+         "f": "look_sb3_ame_007.mp3",
+         "t": "8",
+         "label": "Look 三级 学生书",
+         "mb": 0.67
+        },
+        {
+         "f": "look_sb3_ame_008.mp3",
+         "t": "9",
+         "label": "Look 三级 学生书",
+         "mb": 1.18
+        },
+        {
+         "f": "look_sb3_ame_009.mp3",
+         "t": "10",
+         "label": "Look 三级 学生书",
+         "mb": 0.6
+        },
+        {
+         "f": "look_sb3_ame_010.mp3",
+         "t": "11",
+         "label": "Look 三级 学生书",
+         "mb": 1.74
+        },
+        {
+         "f": "look_sb3_ame_011.mp3",
+         "t": "12",
+         "label": "Look 三级 学生书",
+         "mb": 1.63
+        },
+        {
+         "f": "look_sb3_ame_012.mp3",
+         "t": "13",
+         "label": "Look 三级 学生书",
+         "mb": 1.64
+        },
+        {
+         "f": "look_sb3_ame_013.mp3",
+         "t": "14",
+         "label": "Look 三级 学生书",
+         "mb": 1.64
+        },
+        {
+         "f": "look_sb3_ame_014.mp3",
+         "t": "15",
+         "label": "Look 三级 学生书",
+         "mb": 0.88
+        },
+        {
+         "f": "look_sb3_ame_015.mp3",
+         "t": "16",
+         "label": "Look 三级 学生书",
+         "mb": 0.84
+        },
+        {
+         "f": "look_sb3_ame_016.mp3",
+         "t": "17",
+         "label": "Look 三级 学生书",
+         "mb": 0.96
+        },
+        {
+         "f": "look_sb3_ame_017.mp3",
+         "t": "18",
+         "label": "Look 三级 学生书",
+         "mb": 0.79
+        },
+        {
+         "f": "look_sb3_ame_018.mp3",
+         "t": "19",
+         "label": "Look 三级 学生书",
+         "mb": 1.23
+        },
+        {
+         "f": "look_sb3_ame_019.mp3",
+         "t": "20",
+         "label": "Look 三级 学生书",
+         "mb": 1.29
+        },
+        {
+         "f": "look_sb3_ame_020.mp3",
+         "t": "21",
+         "label": "Look 三级 学生书",
+         "mb": 0.5
+        },
+        {
+         "f": "look_sb3_ame_021.mp3",
+         "t": "22",
+         "label": "Look 三级 学生书",
+         "mb": 0.58
+        },
+        {
+         "f": "look_sb3_ame_022.mp3",
+         "t": "23",
+         "label": "Look 三级 学生书",
+         "mb": 1.3
+        },
+        {
+         "f": "look_sb3_ame_023.mp3",
+         "t": "24",
+         "label": "Look 三级 学生书",
+         "mb": 0.89
+        },
+        {
+         "f": "look_sb3_ame_024.mp3",
+         "t": "25",
+         "label": "Look 三级 学生书",
+         "mb": 1.36
+        },
+        {
+         "f": "look_sb3_ame_025.mp3",
+         "t": "26",
+         "label": "Look 三级 学生书",
+         "mb": 1.32
+        },
+        {
+         "f": "look_sb3_ame_026.mp3",
+         "t": "27",
+         "label": "Look 三级 学生书",
+         "mb": 1.3
+        },
+        {
+         "f": "look_sb3_ame_027.mp3",
+         "t": "28",
+         "label": "Look 三级 学生书",
+         "mb": 1.3
+        },
+        {
+         "f": "look_sb3_ame_028.mp3",
+         "t": "29",
+         "label": "Look 三级 学生书",
+         "mb": 0.77
+        },
+        {
+         "f": "look_sb3_ame_029.mp3",
+         "t": "30",
+         "label": "Look 三级 学生书",
+         "mb": 0.76
+        },
+        {
+         "f": "look_sb3_ame_030.mp3",
+         "t": "31",
+         "label": "Look 三级 学生书",
+         "mb": 0.77
+        },
+        {
+         "f": "look_sb3_ame_031.mp3",
+         "t": "32",
+         "label": "Look 三级 学生书",
+         "mb": 1.01
+        },
+        {
+         "f": "look_sb3_ame_032.mp3",
+         "t": "33",
+         "label": "Look 三级 学生书",
+         "mb": 1.19
+        },
+        {
+         "f": "look_sb3_ame_033.mp3",
+         "t": "34",
+         "label": "Look 三级 学生书",
+         "mb": 0.87
+        },
+        {
+         "f": "look_sb3_ame_034.mp3",
+         "t": "35",
+         "label": "Look 三级 学生书",
+         "mb": 0.75
+        },
+        {
+         "f": "look_sb3_ame_035.mp3",
+         "t": "36",
+         "label": "Look 三级 学生书",
+         "mb": 1.82
+        },
+        {
+         "f": "look_sb3_ame_036.mp3",
+         "t": "37",
+         "label": "Look 三级 学生书",
+         "mb": 0.92
+        },
+        {
+         "f": "look_sb3_ame_037.mp3",
+         "t": "38",
+         "label": "Look 三级 学生书",
+         "mb": 0.71
+        },
+        {
+         "f": "look_sb3_ame_038.mp3",
+         "t": "39",
+         "label": "Look 三级 学生书",
+         "mb": 0.87
+        },
+        {
+         "f": "look_sb3_ame_039.mp3",
+         "t": "40",
+         "label": "Look 三级 学生书",
+         "mb": 1.46
+        },
+        {
+         "f": "look_sb3_ame_040.mp3",
+         "t": "41",
+         "label": "Look 三级 学生书",
+         "mb": 1.15
+        },
+        {
+         "f": "look_sb3_ame_041.mp3",
+         "t": "42",
+         "label": "Look 三级 学生书",
+         "mb": 0.3
+        },
+        {
+         "f": "look_sb3_ame_042.mp3",
+         "t": "43",
+         "label": "Look 三级 学生书",
+         "mb": 0.53
+        },
+        {
+         "f": "look_sb3_ame_043.mp3",
+         "t": "44",
+         "label": "Look 三级 学生书",
+         "mb": 1.03
+        },
+        {
+         "f": "look_sb3_ame_044.mp3",
+         "t": "45",
+         "label": "Look 三级 学生书",
+         "mb": 0.72
+        },
+        {
+         "f": "look_sb3_ame_045.mp3",
+         "t": "46",
+         "label": "Look 三级 学生书",
+         "mb": 1.48
+        },
+        {
+         "f": "look_sb3_ame_046.mp3",
+         "t": "47",
+         "label": "Look 三级 学生书",
+         "mb": 1.44
+        },
+        {
+         "f": "look_sb3_ame_047.mp3",
+         "t": "48",
+         "label": "Look 三级 学生书",
+         "mb": 1.46
+        },
+        {
+         "f": "look_sb3_ame_048.mp3",
+         "t": "49",
+         "label": "Look 三级 学生书",
+         "mb": 1.46
+        },
+        {
+         "f": "look_sb3_ame_049.mp3",
+         "t": "50",
+         "label": "Look 三级 学生书",
+         "mb": 0.78
+        },
+        {
+         "f": "look_sb3_ame_050.mp3",
+         "t": "51",
+         "label": "Look 三级 学生书",
+         "mb": 0.73
+        },
+        {
+         "f": "look_sb3_ame_051.mp3",
+         "t": "52",
+         "label": "Look 三级 学生书",
+         "mb": 1.1
+        },
+        {
+         "f": "look_sb3_ame_052.mp3",
+         "t": "53",
+         "label": "Look 三级 学生书",
+         "mb": 0.88
+        },
+        {
+         "f": "look_sb3_ame_053.mp3",
+         "t": "54",
+         "label": "Look 三级 学生书",
+         "mb": 1.61
+        },
+        {
+         "f": "look_sb3_ame_054.mp3",
+         "t": "55",
+         "label": "Look 三级 学生书",
+         "mb": 0.93
+        },
+        {
+         "f": "look_sb3_ame_055.mp3",
+         "t": "56",
+         "label": "Look 三级 学生书",
+         "mb": 0.34
+        },
+        {
+         "f": "look_sb3_ame_056.mp3",
+         "t": "57",
+         "label": "Look 三级 学生书",
+         "mb": 0.66
+        },
+        {
+         "f": "look_sb3_ame_057.mp3",
+         "t": "58",
+         "label": "Look 三级 学生书",
+         "mb": 1.33
+        },
+        {
+         "f": "look_sb3_ame_058.mp3",
+         "t": "59",
+         "label": "Look 三级 学生书",
+         "mb": 0.47
+        },
+        {
+         "f": "look_sb3_ame_059.mp3",
+         "t": "60",
+         "label": "Look 三级 学生书",
+         "mb": 1.75
+        },
+        {
+         "f": "look_sb3_ame_060.mp3",
+         "t": "61",
+         "label": "Look 三级 学生书",
+         "mb": 1.73
+        },
+        {
+         "f": "look_sb3_ame_061.mp3",
+         "t": "62",
+         "label": "Look 三级 学生书",
+         "mb": 1.78
+        },
+        {
+         "f": "look_sb3_ame_062.mp3",
+         "t": "63",
+         "label": "Look 三级 学生书",
+         "mb": 1.77
+        },
+        {
+         "f": "look_sb3_ame_063.mp3",
+         "t": "64",
+         "label": "Look 三级 学生书",
+         "mb": 0.77
+        },
+        {
+         "f": "look_sb3_ame_064.mp3",
+         "t": "65",
+         "label": "Look 三级 学生书",
+         "mb": 0.94
+        },
+        {
+         "f": "look_sb3_ame_065.mp3",
+         "t": "66",
+         "label": "Look 三级 学生书",
+         "mb": 1.03
+        },
+        {
+         "f": "look_sb3_ame_066.mp3",
+         "t": "67",
+         "label": "Look 三级 学生书",
+         "mb": 2.17
+        },
+        {
+         "f": "look_sb3_ame_067.mp3",
+         "t": "68",
+         "label": "Look 三级 学生书",
+         "mb": 1.41
+        },
+        {
+         "f": "look_sb3_ame_068.mp3",
+         "t": "69",
+         "label": "Look 三级 学生书",
+         "mb": 0.74
+        },
+        {
+         "f": "look_sb3_ame_069.mp3",
+         "t": "70",
+         "label": "Look 三级 学生书",
+         "mb": 1.19
+        },
+        {
+         "f": "look_sb3_ame_070.mp3",
+         "t": "71",
+         "label": "Look 三级 学生书",
+         "mb": 0.73
+        },
+        {
+         "f": "look_sb3_ame_071.mp3",
+         "t": "72",
+         "label": "Look 三级 学生书",
+         "mb": 0.66
+        },
+        {
+         "f": "look_sb3_ame_072.mp3",
+         "t": "73",
+         "label": "Look 三级 学生书",
+         "mb": 0.97
+        },
+        {
+         "f": "look_sb3_ame_073.mp3",
+         "t": "74",
+         "label": "Look 三级 学生书",
+         "mb": 1.23
+        },
+        {
+         "f": "look_sb3_ame_074.mp3",
+         "t": "75",
+         "label": "Look 三级 学生书",
+         "mb": 0.64
+        },
+        {
+         "f": "look_sb3_ame_075.mp3",
+         "t": "76",
+         "label": "Look 三级 学生书",
+         "mb": 1.16
+        },
+        {
+         "f": "look_sb3_ame_076.mp3",
+         "t": "77",
+         "label": "Look 三级 学生书",
+         "mb": 1.08
+        },
+        {
+         "f": "look_sb3_ame_077.mp3",
+         "t": "78",
+         "label": "Look 三级 学生书",
+         "mb": 1.1
+        },
+        {
+         "f": "look_sb3_ame_078.mp3",
+         "t": "79",
+         "label": "Look 三级 学生书",
+         "mb": 1.1
+        },
+        {
+         "f": "look_sb3_ame_079.mp3",
+         "t": "80",
+         "label": "Look 三级 学生书",
+         "mb": 1.23
+        },
+        {
+         "f": "look_sb3_ame_080.mp3",
+         "t": "81",
+         "label": "Look 三级 学生书",
+         "mb": 0.95
+        },
+        {
+         "f": "look_sb3_ame_081.mp3",
+         "t": "82",
+         "label": "Look 三级 学生书",
+         "mb": 1.12
+        },
+        {
+         "f": "look_sb3_ame_082.mp3",
+         "t": "83",
+         "label": "Look 三级 学生书",
+         "mb": 0.74
+        },
+        {
+         "f": "look_sb3_ame_083.mp3",
+         "t": "84",
+         "label": "Look 三级 学生书",
+         "mb": 1.19
+        },
+        {
+         "f": "look_sb3_ame_084.mp3",
+         "t": "85",
+         "label": "Look 三级 学生书",
+         "mb": 0.75
+        },
+        {
+         "f": "look_sb3_ame_085.mp3",
+         "t": "86",
+         "label": "Look 三级 学生书",
+         "mb": 0.37
+        },
+        {
+         "f": "look_sb3_ame_086.mp3",
+         "t": "87",
+         "label": "Look 三级 学生书",
+         "mb": 0.79
+        },
+        {
+         "f": "look_sb3_ame_087.mp3",
+         "t": "88",
+         "label": "Look 三级 学生书",
+         "mb": 1.35
+        },
+        {
+         "f": "look_sb3_ame_088.mp3",
+         "t": "89",
+         "label": "Look 三级 学生书",
+         "mb": 0.61
+        },
+        {
+         "f": "look_sb3_ame_089.mp3",
+         "t": "90",
+         "label": "Look 三级 学生书",
+         "mb": 1.31
+        },
+        {
+         "f": "look_sb3_ame_090.mp3",
+         "t": "91",
+         "label": "Look 三级 学生书",
+         "mb": 1.27
+        },
+        {
+         "f": "look_sb3_ame_091.mp3",
+         "t": "92",
+         "label": "Look 三级 学生书",
+         "mb": 1.27
+        },
+        {
+         "f": "look_sb3_ame_092.mp3",
+         "t": "93",
+         "label": "Look 三级 学生书",
+         "mb": 1.26
+        },
+        {
+         "f": "look_sb3_ame_093.mp3",
+         "t": "94",
+         "label": "Look 三级 学生书",
+         "mb": 1.07
+        },
+        {
+         "f": "look_sb3_ame_094.mp3",
+         "t": "95",
+         "label": "Look 三级 学生书",
+         "mb": 0.72
+        },
+        {
+         "f": "look_sb3_ame_095.mp3",
+         "t": "96",
+         "label": "Look 三级 学生书",
+         "mb": 1.0
+        },
+        {
+         "f": "look_sb3_ame_096.mp3",
+         "t": "97",
+         "label": "Look 三级 学生书",
+         "mb": 0.96
+        },
+        {
+         "f": "look_sb3_ame_097.mp3",
+         "t": "98",
+         "label": "Look 三级 学生书",
+         "mb": 1.65
+        },
+        {
+         "f": "look_sb3_ame_098.mp3",
+         "t": "99",
+         "label": "Look 三级 学生书",
+         "mb": 0.75
+        },
+        {
+         "f": "look_sb3_ame_099.mp3",
+         "t": "100",
+         "label": "Look 三级 学生书",
+         "mb": 0.8
+        },
+        {
+         "f": "look_sb3_ame_100.mp3",
+         "t": "101",
+         "label": "Look 三级 学生书",
+         "mb": 1.47
+        },
+        {
+         "f": "look_sb3_ame_101.mp3",
+         "t": "102",
+         "label": "Look 三级 学生书",
+         "mb": 0.83
+        },
+        {
+         "f": "look_sb3_ame_102.mp3",
+         "t": "103",
+         "label": "Look 三级 学生书",
+         "mb": 0.35
+        },
+        {
+         "f": "look_sb3_ame_103.mp3",
+         "t": "104",
+         "label": "Look 三级 学生书",
+         "mb": 0.71
+        },
+        {
+         "f": "look_sb3_ame_104.mp3",
+         "t": "105",
+         "label": "Look 三级 学生书",
+         "mb": 1.31
+        },
+        {
+         "f": "look_sb3_ame_105.mp3",
+         "t": "106",
+         "label": "Look 三级 学生书",
+         "mb": 0.66
+        },
+        {
+         "f": "look_sb3_ame_106.mp3",
+         "t": "107",
+         "label": "Look 三级 学生书",
+         "mb": 1.45
+        },
+        {
+         "f": "look_sb3_ame_107.mp3",
+         "t": "108",
+         "label": "Look 三级 学生书",
+         "mb": 1.35
+        },
+        {
+         "f": "look_sb3_ame_108.mp3",
+         "t": "109",
+         "label": "Look 三级 学生书",
+         "mb": 1.34
+        },
+        {
+         "f": "look_sb3_ame_109.mp3",
+         "t": "110",
+         "label": "Look 三级 学生书",
+         "mb": 1.34
+        },
+        {
+         "f": "look_sb3_ame_110.mp3",
+         "t": "111",
+         "label": "Look 三级 学生书",
+         "mb": 0.83
+        },
+        {
+         "f": "look_sb3_ame_111.mp3",
+         "t": "112",
+         "label": "Look 三级 学生书",
+         "mb": 1.02
+        },
+        {
+         "f": "look_sb3_ame_112.mp3",
+         "t": "113",
+         "label": "Look 三级 学生书",
+         "mb": 1.05
+        },
+        {
+         "f": "look_sb3_ame_113.mp3",
+         "t": "114",
+         "label": "Look 三级 学生书",
+         "mb": 0.8
+        },
+        {
+         "f": "look_sb3_ame_114.mp3",
+         "t": "115",
+         "label": "Look 三级 学生书",
+         "mb": 1.26
+        },
+        {
+         "f": "look_sb3_ame_115.mp3",
+         "t": "116",
+         "label": "Look 三级 学生书",
+         "mb": 1.05
+        },
+        {
+         "f": "look_sb3_ame_116.mp3",
+         "t": "117",
+         "label": "Look 三级 学生书",
+         "mb": 0.29
+        },
+        {
+         "f": "look_sb3_ame_117.mp3",
+         "t": "118",
+         "label": "Look 三级 学生书",
+         "mb": 0.59
+        },
+        {
+         "f": "look_sb3_ame_118.mp3",
+         "t": "119",
+         "label": "Look 三级 学生书",
+         "mb": 1.25
+        },
+        {
+         "f": "look_sb3_ame_119.mp3",
+         "t": "120",
+         "label": "Look 三级 学生书",
+         "mb": 0.37
+        },
+        {
+         "f": "look_sb3_ame_120.mp3",
+         "t": "121",
+         "label": "Look 三级 学生书",
+         "mb": 1.11
+        },
+        {
+         "f": "look_sb3_ame_121.mp3",
+         "t": "122",
+         "label": "Look 三级 学生书",
+         "mb": 1.02
+        },
+        {
+         "f": "look_sb3_ame_122.mp3",
+         "t": "123",
+         "label": "Look 三级 学生书",
+         "mb": 1.0
+        },
+        {
+         "f": "look_sb3_ame_123.mp3",
+         "t": "124",
+         "label": "Look 三级 学生书",
+         "mb": 0.99
+        },
+        {
+         "f": "look_sb3_ame_124.mp3",
+         "t": "125",
+         "label": "Look 三级 学生书",
+         "mb": 0.65
+        },
+        {
+         "f": "look_sb3_ame_125.mp3",
+         "t": "126",
+         "label": "Look 三级 学生书",
+         "mb": 0.7
+        },
+        {
+         "f": "look_sb3_ame_126.mp3",
+         "t": "127",
+         "label": "Look 三级 学生书",
+         "mb": 0.92
+        },
+        {
+         "f": "look_sb3_ame_127.mp3",
+         "t": "128",
+         "label": "Look 三级 学生书",
+         "mb": 1.88
+        },
+        {
+         "f": "look_sb3_ame_128.mp3",
+         "t": "129",
+         "label": "Look 三级 学生书",
+         "mb": 1.67
+        },
+        {
+         "f": "look_sb3_ame_129.mp3",
+         "t": "130",
+         "label": "Look 三级 学生书",
+         "mb": 0.8
+        },
+        {
+         "f": "look_sb3_ame_130.mp3",
+         "t": "131",
+         "label": "Look 三级 学生书",
+         "mb": 1.31
+        },
+        {
+         "f": "look_sb3_ame_131.mp3",
+         "t": "132",
+         "label": "Look 三级 学生书",
+         "mb": 0.9
+        },
+        {
+         "f": "look_sb3_ame_132.mp3",
+         "t": "133",
+         "label": "Look 三级 学生书",
+         "mb": 0.73
+        },
+        {
+         "f": "look_sb3_ame_133.mp3",
+         "t": "134",
+         "label": "Look 三级 学生书",
+         "mb": 0.57
+        },
+        {
+         "f": "look_sb3_ame_134.mp3",
+         "t": "135",
+         "label": "Look 三级 学生书",
+         "mb": 1.41
+        },
+        {
+         "f": "look_sb3_ame_135.mp3",
+         "t": "136",
+         "label": "Look 三级 学生书",
+         "mb": 0.56
+        },
+        {
+         "f": "look_sb3_ame_136.mp3",
+         "t": "137",
+         "label": "Look 三级 学生书",
+         "mb": 2.35
+        },
+        {
+         "f": "look_sb3_ame_137.mp3",
+         "t": "138",
+         "label": "Look 三级 学生书",
+         "mb": 2.3
+        },
+        {
+         "f": "look_sb3_ame_138.mp3",
+         "t": "139",
+         "label": "Look 三级 学生书",
+         "mb": 2.3
+        },
+        {
+         "f": "look_sb3_ame_139.mp3",
+         "t": "140",
+         "label": "Look 三级 学生书",
+         "mb": 2.29
+        },
+        {
+         "f": "look_sb3_ame_140.mp3",
+         "t": "141",
+         "label": "Look 三级 学生书",
+         "mb": 0.61
+        },
+        {
+         "f": "look_sb3_ame_141.mp3",
+         "t": "142",
+         "label": "Look 三级 学生书",
+         "mb": 0.84
+        },
+        {
+         "f": "look_sb3_ame_142.mp3",
+         "t": "143",
+         "label": "Look 三级 学生书",
+         "mb": 1.09
+        },
+        {
+         "f": "look_sb3_ame_143.mp3",
+         "t": "144",
+         "label": "Look 三级 学生书",
+         "mb": 0.72
+        },
+        {
+         "f": "look_sb3_ame_144.mp3",
+         "t": "145",
+         "label": "Look 三级 学生书",
+         "mb": 1.24
+        },
+        {
+         "f": "look_sb3_ame_145.mp3",
+         "t": "146",
+         "label": "Look 三级 学生书",
+         "mb": 1.46
+        },
+        {
+         "f": "look_sb3_ame_146.mp3",
+         "t": "147",
+         "label": "Look 三级 学生书",
+         "mb": 0.26
+        },
+        {
+         "f": "look_sb3_ame_147.mp3",
+         "t": "148",
+         "label": "Look 三级 学生书",
+         "mb": 0.98
+        },
+        {
+         "f": "look_sb3_ame_148.mp3",
+         "t": "149",
+         "label": "Look 三级 学生书",
+         "mb": 0.64
+        },
+        {
+         "f": "look_sb3_ame_149.mp3",
+         "t": "150",
+         "label": "Look 三级 学生书",
+         "mb": 1.67
+        },
+        {
+         "f": "look_sb3_ame_150.mp3",
+         "t": "151",
+         "label": "Look 三级 学生书",
+         "mb": 0.34
+        },
+        {
+         "f": "look_sb3_ame_151.mp3",
+         "t": "152",
+         "label": "Look 三级 学生书",
+         "mb": 1.86
+        },
+        {
+         "f": "look_sb3_ame_152.mp3",
+         "t": "153",
+         "label": "Look 三级 学生书",
+         "mb": 1.8
+        },
+        {
+         "f": "look_sb3_ame_153.mp3",
+         "t": "154",
+         "label": "Look 三级 学生书",
+         "mb": 1.8
+        },
+        {
+         "f": "look_sb3_ame_154.mp3",
+         "t": "155",
+         "label": "Look 三级 学生书",
+         "mb": 1.79
+        },
+        {
+         "f": "look_sb3_ame_155.mp3",
+         "t": "156",
+         "label": "Look 三级 学生书",
+         "mb": 0.82
+        },
+        {
+         "f": "look_sb3_ame_156.mp3",
+         "t": "157",
+         "label": "Look 三级 学生书",
+         "mb": 1.11
+        },
+        {
+         "f": "look_sb3_ame_157.mp3",
+         "t": "158",
+         "label": "Look 三级 学生书",
+         "mb": 1.09
+        },
+        {
+         "f": "look_sb3_ame_158.mp3",
+         "t": "159",
+         "label": "Look 三级 学生书",
+         "mb": 0.89
+        },
+        {
+         "f": "look_sb3_ame_159.mp3",
+         "t": "160",
+         "label": "Look 三级 学生书",
+         "mb": 2.48
+        },
+        {
+         "f": "look_sb3_ame_160.mp3",
+         "t": "161",
+         "label": "Look 三级 学生书",
+         "mb": 0.91
+        },
+        {
+         "f": "look_sb3_ame_161.mp3",
+         "t": "162",
+         "label": "Look 三级 学生书",
+         "mb": 1.43
+        },
+        {
+         "f": "look_sb3_ame_162.mp3",
+         "t": "163",
+         "label": "Look 三级 学生书",
+         "mb": 0.94
+        },
+        {
+         "f": "look_sb3_ame_163.mp3",
+         "t": "164",
+         "label": "Look 三级 学生书",
+         "mb": 0.51
+        },
+        {
+         "f": "look_sb3_ame_164.mp3",
+         "t": "165",
+         "label": "Look 三级 学生书",
+         "mb": 0.61
+        },
+        {
+         "f": "look_sb3_ame_165.mp3",
+         "t": "166",
+         "label": "Look 三级 学生书",
+         "mb": 1.43
+        },
+        {
+         "f": "look_sb3_ame_166.mp3",
+         "t": "167",
+         "label": "Look 三级 学生书",
+         "mb": 0.88
+        },
+        {
+         "f": "look_sb3_ame_167.mp3",
+         "t": "168",
+         "label": "Look 三级 学生书",
+         "mb": 1.44
+        },
+        {
+         "f": "look_sb3_ame_168.mp3",
+         "t": "169",
+         "label": "Look 三级 学生书",
+         "mb": 2.46
+        },
+        {
+         "f": "look_sb3_ame_169.mp3",
+         "t": "170",
+         "label": "Look 三级 学生书",
+         "mb": 2.41
+        },
+        {
+         "f": "look_sb3_ame_170.mp3",
+         "t": "171",
+         "label": "Look 三级 学生书",
+         "mb": 2.36
+        },
+        {
+         "f": "look_sb3_ame_171.mp3",
+         "t": "172",
+         "label": "Look 三级 学生书",
+         "mb": 2.37
+        },
+        {
+         "f": "look_sb3_ame_172.mp3",
+         "t": "173",
+         "label": "Look 三级 学生书",
+         "mb": 0.75
+        },
+        {
+         "f": "look_sb3_ame_173.mp3",
+         "t": "174",
+         "label": "Look 三级 学生书",
+         "mb": 0.7
+        },
+        {
+         "f": "look_sb3_ame_174.mp3",
+         "t": "175",
+         "label": "Look 三级 学生书",
+         "mb": 0.91
+        },
+        {
+         "f": "look_sb3_ame_175.mp3",
+         "t": "176",
+         "label": "Look 三级 学生书",
+         "mb": 0.88
+        },
+        {
+         "f": "look_sb3_ame_176.mp3",
+         "t": "177",
+         "label": "Look 三级 学生书",
+         "mb": 1.51
+        },
+        {
+         "f": "look_sb3_ame_177.mp3",
+         "t": "178",
+         "label": "Look 三级 学生书",
+         "mb": 1.29
+        },
+        {
+         "f": "look_sb3_ame_178.mp3",
+         "t": "179",
+         "label": "Look 三级 学生书",
+         "mb": 0.4
+        },
+        {
+         "f": "look_sb3_ame_179.mp3",
+         "t": "180",
+         "label": "Look 三级 学生书",
+         "mb": 0.84
+        },
+        {
+         "f": "look_sb3_ame_180.mp3",
+         "t": "181",
+         "label": "Look 三级 学生书",
+         "mb": 1.41
+        },
+        {
+         "f": "look_sb3_ame_181.mp3",
+         "t": "182",
+         "label": "Look 三级 学生书",
+         "mb": 0.33
+        },
+        {
+         "f": "look_sb3_ame_182.mp3",
+         "t": "183",
+         "label": "Look 三级 学生书",
+         "mb": 2.15
+        },
+        {
+         "f": "look_sb3_ame_183.mp3",
+         "t": "184",
+         "label": "Look 三级 学生书",
+         "mb": 2.11
+        },
+        {
+         "f": "look_sb3_ame_184.mp3",
+         "t": "185",
+         "label": "Look 三级 学生书",
+         "mb": 2.03
+        },
+        {
+         "f": "look_sb3_ame_185.mp3",
+         "t": "186",
+         "label": "Look 三级 学生书",
+         "mb": 2.02
+        },
+        {
+         "f": "look_sb3_ame_186.mp3",
+         "t": "187",
+         "label": "Look 三级 学生书",
+         "mb": 0.62
+        },
+        {
+         "f": "look_sb3_ame_187.mp3",
+         "t": "188",
+         "label": "Look 三级 学生书",
+         "mb": 0.61
+        },
+        {
+         "f": "look_sb3_ame_188.mp3",
+         "t": "189",
+         "label": "Look 三级 学生书",
+         "mb": 0.52
+        },
+        {
+         "f": "look_sb3_ame_189.mp3",
+         "t": "190",
+         "label": "Look 三级 学生书",
+         "mb": 1.15
+        },
+        {
+         "f": "look_sb3_ame_190.mp3",
+         "t": "191",
+         "label": "Look 三级 学生书",
+         "mb": 3.31
+        },
+        {
+         "f": "look_sb3_ame_191.mp3",
+         "t": "192",
+         "label": "Look 三级 学生书",
+         "mb": 1.9
+        },
+        {
+         "f": "look_sb3_ame_192.mp3",
+         "t": "193",
+         "label": "Look 三级 学生书",
+         "mb": 0.7
+        },
+        {
+         "f": "look_sb3_ame_193.mp3",
+         "t": "194",
+         "label": "Look 三级 学生书",
+         "mb": 1.96
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wb",
+     "name": "练习册",
+     "en": "Workbook",
+     "desc": "练习册配套音频",
+     "count": 59,
+     "units": [
+      {
+       "unit": 1,
+       "tracks": [
+        {
+         "f": "look_wb3_ame_000.mp3",
+         "t": "1",
+         "label": "Look 三级 练习册",
+         "mb": 0.17
+        },
+        {
+         "f": "look_wb3_ame_001.mp3",
+         "t": "2",
+         "label": "Look 三级 练习册",
+         "mb": 5.09
+        },
+        {
+         "f": "look_wb3_ame_002.mp3",
+         "t": "3",
+         "label": "Look 三级 练习册",
+         "mb": 0.66
+        },
+        {
+         "f": "look_wb3_ame_003.mp3",
+         "t": "4",
+         "label": "Look 三级 练习册",
+         "mb": 1.79
+        },
+        {
+         "f": "look_wb3_ame_004.mp3",
+         "t": "5",
+         "label": "Look 三级 练习册",
+         "mb": 2.44
+        },
+        {
+         "f": "look_wb3_ame_005.mp3",
+         "t": "6",
+         "label": "Look 三级 练习册",
+         "mb": 1.74
+        },
+        {
+         "f": "look_wb3_ame_006.mp3",
+         "t": "7",
+         "label": "Look 三级 练习册",
+         "mb": 0.66
+        },
+        {
+         "f": "look_wb3_ame_007.mp3",
+         "t": "8",
+         "label": "Look 三级 练习册",
+         "mb": 1.26
+        },
+        {
+         "f": "look_wb3_ame_008.mp3",
+         "t": "9",
+         "label": "Look 三级 练习册",
+         "mb": 2.03
+        },
+        {
+         "f": "look_wb3_ame_009.mp3",
+         "t": "10",
+         "label": "Look 三级 练习册",
+         "mb": 0.89
+        },
+        {
+         "f": "look_wb3_ame_010.mp3",
+         "t": "11",
+         "label": "Look 三级 练习册",
+         "mb": 1.3
+        },
+        {
+         "f": "look_wb3_ame_011.mp3",
+         "t": "12",
+         "label": "Look 三级 练习册",
+         "mb": 2.01
+        },
+        {
+         "f": "look_wb3_ame_012.mp3",
+         "t": "13",
+         "label": "Look 三级 练习册",
+         "mb": 0.94
+        },
+        {
+         "f": "look_wb3_ame_013.mp3",
+         "t": "14",
+         "label": "Look 三级 练习册",
+         "mb": 1.26
+        },
+        {
+         "f": "look_wb3_ame_014.mp3",
+         "t": "15",
+         "label": "Look 三级 练习册",
+         "mb": 1.49
+        },
+        {
+         "f": "look_wb3_ame_015.mp3",
+         "t": "16",
+         "label": "Look 三级 练习册",
+         "mb": 1.31
+        },
+        {
+         "f": "look_wb3_ame_016.mp3",
+         "t": "17",
+         "label": "Look 三级 练习册",
+         "mb": 0.82
+        },
+        {
+         "f": "look_wb3_ame_017.mp3",
+         "t": "18",
+         "label": "Look 三级 练习册",
+         "mb": 2.42
+        },
+        {
+         "f": "look_wb3_ame_018.mp3",
+         "t": "19",
+         "label": "Look 三级 练习册",
+         "mb": 2.19
+        },
+        {
+         "f": "look_wb3_ame_019.mp3",
+         "t": "20",
+         "label": "Look 三级 练习册",
+         "mb": 2.51
+        },
+        {
+         "f": "look_wb3_ame_020.mp3",
+         "t": "21",
+         "label": "Look 三级 练习册",
+         "mb": 1.65
+        },
+        {
+         "f": "look_wb3_ame_021.mp3",
+         "t": "22",
+         "label": "Look 三级 练习册",
+         "mb": 1.22
+        },
+        {
+         "f": "look_wb3_ame_022.mp3",
+         "t": "23",
+         "label": "Look 三级 练习册",
+         "mb": 1.5
+        },
+        {
+         "f": "look_wb3_ame_023.mp3",
+         "t": "24",
+         "label": "Look 三级 练习册",
+         "mb": 2.53
+        },
+        {
+         "f": "look_wb3_ame_024.mp3",
+         "t": "25",
+         "label": "Look 三级 练习册",
+         "mb": 1.63
+        },
+        {
+         "f": "look_wb3_ame_025.mp3",
+         "t": "26",
+         "label": "Look 三级 练习册",
+         "mb": 1.03
+        },
+        {
+         "f": "look_wb3_ame_026.mp3",
+         "t": "27",
+         "label": "Look 三级 练习册",
+         "mb": 1.54
+        },
+        {
+         "f": "look_wb3_ame_027.mp3",
+         "t": "28",
+         "label": "Look 三级 练习册",
+         "mb": 1.7
+        },
+        {
+         "f": "look_wb3_ame_028.mp3",
+         "t": "29",
+         "label": "Look 三级 练习册",
+         "mb": 1.04
+        },
+        {
+         "f": "look_wb3_ame_029.mp3",
+         "t": "30",
+         "label": "Look 三级 练习册",
+         "mb": 1.1
+        },
+        {
+         "f": "look_wb3_ame_030.mp3",
+         "t": "31",
+         "label": "Look 三级 练习册",
+         "mb": 2.56
+        },
+        {
+         "f": "look_wb3_ame_031.mp3",
+         "t": "32",
+         "label": "Look 三级 练习册",
+         "mb": 1.72
+        },
+        {
+         "f": "look_wb3_ame_032.mp3",
+         "t": "33",
+         "label": "Look 三级 练习册",
+         "mb": 1.4
+        },
+        {
+         "f": "look_wb3_ame_033.mp3",
+         "t": "34",
+         "label": "Look 三级 练习册",
+         "mb": 1.52
+        },
+        {
+         "f": "look_wb3_ame_034.mp3",
+         "t": "35",
+         "label": "Look 三级 练习册",
+         "mb": 1.83
+        },
+        {
+         "f": "look_wb3_ame_035.mp3",
+         "t": "36",
+         "label": "Look 三级 练习册",
+         "mb": 2.67
+        },
+        {
+         "f": "look_wb3_ame_036.mp3",
+         "t": "37",
+         "label": "Look 三级 练习册",
+         "mb": 3.07
+        },
+        {
+         "f": "look_wb3_ame_037.mp3",
+         "t": "38",
+         "label": "Look 三级 练习册",
+         "mb": 1.26
+        },
+        {
+         "f": "look_wb3_ame_038.mp3",
+         "t": "39",
+         "label": "Look 三级 练习册",
+         "mb": 1.05
+        },
+        {
+         "f": "look_wb3_ame_039.mp3",
+         "t": "40",
+         "label": "Look 三级 练习册",
+         "mb": 1.63
+        },
+        {
+         "f": "look_wb3_ame_040.mp3",
+         "t": "41",
+         "label": "Look 三级 练习册",
+         "mb": 1.37
+        },
+        {
+         "f": "look_wb3_ame_041.mp3",
+         "t": "42",
+         "label": "Look 三级 练习册",
+         "mb": 0.84
+        },
+        {
+         "f": "look_wb3_ame_042.mp3",
+         "t": "43",
+         "label": "Look 三级 练习册",
+         "mb": 2.74
+        },
+        {
+         "f": "look_wb3_ame_043.mp3",
+         "t": "44",
+         "label": "Look 三级 练习册",
+         "mb": 0.85
+        },
+        {
+         "f": "look_wb3_ame_044.mp3",
+         "t": "45",
+         "label": "Look 三级 练习册",
+         "mb": 2.27
+        },
+        {
+         "f": "look_wb3_ame_045.mp3",
+         "t": "46",
+         "label": "Look 三级 练习册",
+         "mb": 1.23
+        },
+        {
+         "f": "look_wb3_ame_046.mp3",
+         "t": "47",
+         "label": "Look 三级 练习册",
+         "mb": 1.04
+        },
+        {
+         "f": "look_wb3_ame_047.mp3",
+         "t": "48",
+         "label": "Look 三级 练习册",
+         "mb": 2.9
+        },
+        {
+         "f": "look_wb3_ame_048.mp3",
+         "t": "49",
+         "label": "Look 三级 练习册",
+         "mb": 1.31
+        },
+        {
+         "f": "look_wb3_ame_049.mp3",
+         "t": "50",
+         "label": "Look 三级 练习册",
+         "mb": 1.3
+        },
+        {
+         "f": "look_wb3_ame_050.mp3",
+         "t": "51",
+         "label": "Look 三级 练习册",
+         "mb": 1.06
+        },
+        {
+         "f": "look_wb3_ame_051.mp3",
+         "t": "52",
+         "label": "Look 三级 练习册",
+         "mb": 2.04
+        },
+        {
+         "f": "look_wb3_ame_052.mp3",
+         "t": "53",
+         "label": "Look 三级 练习册",
+         "mb": 1.48
+        },
+        {
+         "f": "look_wb3_ame_053.mp3",
+         "t": "54",
+         "label": "Look 三级 练习册",
+         "mb": 2.02
+        },
+        {
+         "f": "look_wb3_ame_054.mp3",
+         "t": "55",
+         "label": "Look 三级 练习册",
+         "mb": 4.22
+        },
+        {
+         "f": "look_wb3_ame_055.mp3",
+         "t": "56",
+         "label": "Look 三级 练习册",
+         "mb": 4.66
+        },
+        {
+         "f": "look_wb3_ame_056.mp3",
+         "t": "57",
+         "label": "Look 三级 练习册",
+         "mb": 5.34
+        },
+        {
+         "f": "look_wb3_ame_057.mp3",
+         "t": "58",
+         "label": "Look 三级 练习册",
+         "mb": 5.38
+        },
+        {
+         "f": "look_wb3_ame_058.mp3",
+         "t": "59",
+         "label": "Look 三级 练习册",
+         "mb": 5.41
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
